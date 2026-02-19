@@ -1,0 +1,70 @@
+{
+  "name": "ps-json-tools",
+  "repository": "https://github.com/pshorey/ps-json-tools",
+  "displayName": "PS JSON Tools",
+  "description": "Recursive JSON parse and stringify from the right-click context menu",
+  "version": "0.0.3",
+  "publisher": "pshorey",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Formatters",
+    "Other"
+  ],
+  "activationEvents": [],
+  "main": "./dist/extension.js",
+  "contributes": {
+    "commands": [
+      {
+        "command": "ps-json-tools.parseJsonRecursive",
+        "title": "Parse JSON String (Recursive)"
+      },
+      {
+        "command": "ps-json-tools.stringifyJson",
+        "title": "Stringify to JSON"
+      },
+      {
+        "command": "ps-json-tools.parseSfdt",
+        "title": "Parse encoded SFDT"
+      }
+    ],
+    "menus": {
+      "editor/context": [
+        {
+          "command": "ps-json-tools.parseJsonRecursive",
+          "when": "editorHasSelection",
+          "group": "9_json_tools@1"
+        },
+        {
+          "command": "ps-json-tools.stringifyJson",
+          "when": "editorHasSelection",
+          "group": "9_json_tools@2"
+        },
+        {
+          "command": "ps-json-tools.parseSfdt",
+          "when": "editorHasSelection",
+          "group": "9_json_tools@3"
+        }
+      ]
+    }
+  },
+  "scripts": {
+    "vscode:prepublish": "npm run build",
+    "build": "node esbuild.js --production",
+    "watch": "node esbuild.js --watch",
+    "typecheck": "tsc --noEmit",
+    "lint": "eslint src/",
+    "package": "npm version patch --no-git-tag-version && vsce package"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "@types/vscode": "^1.85.0",
+    "@vscode/vsce": "^3.7.1",
+    "esbuild": "^0.24.0",
+    "typescript": "^5.7.0"
+  },
+  "dependencies": {
+    "jszip": "^3.10.1"
+  }
+}
