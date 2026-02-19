@@ -1,19 +1,4014 @@
-"{\"optimizeSfdt\":false,\"allowHyphensInBookmarkNames\":false,\"sections\":[{\"sectionFormat\":{\"pageWidth\":612,\"pageHeight\":792,\"leftMargin\":50.400001525878906,\"rightMargin\":57.599998474121094,\"topMargin\":15.100000381469727,\"bottomMargin\":56.650001525878906,\"headerDistance\":35.400001525878906,\"footerDistance\":35.400001525878906,\"differentFirstPage\":false,\"differentOddAndEvenPages\":false,\"bidi\":false,\"breakCode\":\"NewPage\",\"endnoteNumberFormat\":\"LowerCaseRoman\",\"footNoteNumberFormat\":\"Arabic\",\"restartIndexForFootnotes\":\"DoNotRestart\",\"restartIndexForEndnotes\":\"DoNotRestart\",\"initialFootNoteNumber\":1,\"initialEndNoteNumber\":1,\"pageNumberStyle\":\"Arabic\",\"numberOfColumns\":1,\"equalWidth\":true,\"lineBetweenColumns\":false,\"columns\":[]},\"blocks\":[{\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"styleName\":\"Normal\",\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":0,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"styleName\":\"Normal\",\"outlineLevel\":\"BodyText\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"characterFormat\":{\"fontColor\":\"#000000FF\",\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":10,\"fontFamily\":\"Tahoma\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#000000FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":1025,\"localeId\":1033,\"localeIdFarEast\":1033,\"complexScript\":false,\"fontFamilyAscii\":\"Tahoma\",\"fontFamilyNonFarEast\":\"Tahoma\",\"characterSpacing\":0,\"scaling\":100}},\"inlines\":[]},{\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"styleName\":\"Normal\",\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":0,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"styleName\":\"Normal\",\"outlineLevel\":\"BodyText\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"characterFormat\":{\"fontColor\":\"#000000FF\",\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":10,\"fontFamily\":\"Tahoma\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#000000FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":1025,\"localeId\":1033,\"localeIdFarEast\":1033,\"complexScript\":false,\"fontFamilyAscii\":\"Tahoma\",\"fontFamilyNonFarEast\":\"Tahoma\",\"characterSpacing\":0,\"scaling\":100}},\"inlines\":[{\"characterFormat\":{\"fontColor\":\"#000000FF\",\"inlineFormat\":{\"bold\":false,\"italic\":false,\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#000000FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":1025,\"localeId\":1033,\"localeIdFarEast\":1033,\"complexScript\":false}},\"text\":\"TenantID: xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxxx0 \"}]},{\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"styleName\":\"Normal\",\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":0,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"styleName\":\"Normal\",\"outlineLevel\":\"BodyText\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"characterFormat\":{\"fontColor\":\"#000000FF\",\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":10,\"fontFamily\":\"Tahoma\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#000000FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":1025,\"localeId\":1033,\"localeIdFarEast\":1033,\"complexScript\":false,\"fontFamilyAscii\":\"Tahoma\",\"fontFamilyNonFarEast\":\"Tahoma\",\"characterSpacing\":0,\"scaling\":100}},\"inlines\":[]},{\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"styleName\":\"Normal\",\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":0,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"styleName\":\"Normal\",\"outlineLevel\":\"BodyText\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"characterFormat\":{\"fontColor\":\"#000000FF\",\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":10,\"fontFamily\":\"Tahoma\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#000000FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":1025,\"localeId\":1033,\"localeIdFarEast\":1033,\"complexScript\":false,\"fontFamilyAscii\":\"Tahoma\",\"fontFamilyNonFarEast\":\"Tahoma\",\"characterSpacing\":0,\"scaling\":100}},\"inlines\":[{\"characterFormat\":{\"fontColor\":\"#000000FF\",\"inlineFormat\":{\"bold\":false,\"italic\":false,\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#000000FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":1025,\"localeId\":1033,\"localeIdFarEast\":1033,\"complexScript\":false}},\"text\":\"ClientID: xxxxxxxx-xxxx-xxxx-\"},{\"characterFormat\":{\"fontColor\":\"#000000FF\",\"inlineFormat\":{\"bold\":false,\"italic\":false,\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#000000FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":1025,\"localeId\":1033,\"localeIdFarEast\":1033,\"complexScript\":false}},\"text\":\" xxxx-xxxxxxxxxxxx8 \"}]},{\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"styleName\":\"Normal\",\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":0,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"styleName\":\"Normal\",\"outlineLevel\":\"BodyText\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"characterFormat\":{\"fontColor\":\"#000000FF\",\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":10,\"fontFamily\":\"Tahoma\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#000000FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":1025,\"localeId\":1033,\"localeIdFarEast\":1033,\"complexScript\":false,\"fontFamilyAscii\":\"Tahoma\",\"fontFamilyNonFarEast\":\"Tahoma\",\"characterSpacing\":0,\"scaling\":100}},\"inlines\":[]},{\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"styleName\":\"Normal\",\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":0,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"styleName\":\"Normal\",\"outlineLevel\":\"BodyText\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"characterFormat\":{\"fontColor\":\"#000000FF\",\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":10,\"fontFamily\":\"Tahoma\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#000000FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":1025,\"localeId\":1033,\"localeIdFarEast\":1033,\"complexScript\":false,\"fontFamilyAscii\":\"Tahoma\",\"fontFamilyNonFarEast\":\"Tahoma\",\"characterSpacing\":0,\"scaling\":100}},\"inlines\":[{\"characterFormat\":{\"fontColor\":\"#000000FF\",\"inlineFormat\":{\"bold\":false,\"italic\":false,\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#000000FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":1025,\"localeId\":1033,\"localeIdFarEast\":1033,\"complexScript\":false}},\"text\":\"ClientKeyID: xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx2\"}]},{\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"styleName\":\"Normal\",\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":0,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"styleName\":\"Normal\",\"outlineLevel\":\"BodyText\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"characterFormat\":{\"fontColor\":\"#000000FF\",\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":10,\"fontFamily\":\"Tahoma\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#000000FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":1025,\"localeId\":1033,\"localeIdFarEast\":1033,\"complexScript\":false,\"fontFamilyAscii\":\"Tahoma\",\"fontFamilyNonFarEast\":\"Tahoma\",\"characterSpacing\":0,\"scaling\":100}},\"inlines\":[{\"characterFormat\":{\"fontColor\":\"#000000FF\",\"bidi\":false,\"inlineFormat\":{\"bold\":false,\"italic\":false,\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#000000FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":1025,\"localeId\":1033,\"localeIdFarEast\":1033,\"complexScript\":false}},\"text\":\" \"}]},{\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"styleName\":\"Normal\",\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":0,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"styleName\":\"Normal\",\"outlineLevel\":\"BodyText\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"characterFormat\":{\"fontColor\":\"#000000FF\",\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":10,\"fontFamily\":\"Tahoma\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#000000FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":1025,\"localeId\":1033,\"localeIdFarEast\":1033,\"complexScript\":false,\"fontFamilyAscii\":\"Tahoma\",\"fontFamilyNonFarEast\":\"Tahoma\",\"characterSpacing\":0,\"scaling\":100}},\"inlines\":[{\"characterFormat\":{\"fontColor\":\"#000000FF\",\"inlineFormat\":{\"bold\":false,\"italic\":false,\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#000000FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":1025,\"localeId\":1033,\"localeIdFarEast\":1033,\"complexScript\":false}},\"text\":\"ClientKeyDescription: Cxxxxxxxxxxxx9 \"}]},{\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"styleName\":\"Normal\",\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":0,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"styleName\":\"Normal\",\"outlineLevel\":\"BodyText\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"characterFormat\":{\"fontColor\":\"#000000FF\",\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":10,\"fontFamily\":\"Tahoma\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#000000FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":1025,\"localeId\":1033,\"localeIdFarEast\":1033,\"complexScript\":false,\"fontFamilyAscii\":\"Tahoma\",\"fontFamilyNonFarEast\":\"Tahoma\",\"characterSpacing\":0,\"scaling\":100}},\"inlines\":[{\"characterFormat\":{\"fontColor\":\"#000000FF\",\"bidi\":false,\"inlineFormat\":{\"bold\":false,\"italic\":false,\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#000000FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":1025,\"localeId\":1033,\"localeIdFarEast\":1033,\"complexScript\":false}},\"text\":\" \"}]},{\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"styleName\":\"Normal\",\"listFormat\":{\"listId\":0,\"listLevelNumber\":0,\"nsid\":39812443},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":36,\"rightIndent\":0,\"firstLineIndent\":-18,\"textAlignment\":\"Left\",\"beforeSpacing\":0,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"styleName\":\"Normal\",\"outlineLevel\":\"BodyText\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{\"listId\":0,\"listLevelNumber\":0,\"nsid\":39812443}}},\"characterFormat\":{\"fontSize\":12,\"fontColor\":\"#000000FF\",\"bidi\":false,\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":12,\"fontFamily\":\"Tahoma\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#000000FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":1025,\"localeId\":1033,\"localeIdFarEast\":1033,\"complexScript\":false,\"fontFamilyAscii\":\"Tahoma\",\"fontFamilyNonFarEast\":\"Tahoma\",\"characterSpacing\":0,\"scaling\":100}},\"inlines\":[{\"characterFormat\":{\"fontSize\":12,\"fontColor\":\"#000000FF\",\"bidi\":false,\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":12,\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#000000FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":1025,\"localeId\":1033,\"localeIdFarEast\":1033,\"complexScript\":false}},\"text\":\"asdf\"}]}],\"headersFooters\":{}}],\"characterFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":10,\"fontFamily\":\"Tahoma\",\"underline\":\"None\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"fontColor\":\"#000000\",\"allCaps\":false,\"localeIdBidi\":1025,\"localeId\":1033,\"localeIdFarEast\":1033,\"hidden\":false,\"fontFamilyAscii\":\"Tahoma\",\"fontFamilyNonFarEast\":\"Tahoma\",\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":10,\"fontFamily\":\"Tahoma\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#000000\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":1025,\"localeId\":1033,\"localeIdFarEast\":1033,\"complexScript\":false,\"hidden\":false,\"fontFamilyAscii\":\"Tahoma\",\"fontFamilyNonFarEast\":\"Tahoma\",\"characterSpacing\":0,\"scaling\":100}},\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":0,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":0,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"outlineLevel\":\"BodyText\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"fontSubstitutionTable\":{},\"themeFontLanguages\":{\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":10,\"fontFamily\":\"Tahoma\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#000000\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":1025,\"localeId\":1033,\"localeIdFarEast\":1033,\"complexScript\":false,\"fontFamilyAscii\":\"Tahoma\",\"fontFamilyNonFarEast\":\"Tahoma\",\"characterSpacing\":0,\"scaling\":100}},\"defaultTabWidth\":36,\"trackChanges\":false,\"enforcement\":false,\"hashValue\":\"\",\"saltValue\":\"\",\"formatting\":false,\"protectionType\":\"NoProtection\",\"dontUseHTMLParagraphAutoSpacing\":false,\"formFieldShading\":true,\"compatibilityMode\":\"Word2007\",\"allowSpaceOfSameStyleInTable\":false,\"themes\":{\"fontScheme\":{\"fontSchemeName\":\"Office\",\"majorFontScheme\":{\"fontSchemeList\":[{\"name\":\"latin\",\"typeface\":\"Calibri Light\"},{\"name\":\"ea\"},{\"name\":\"cs\"}],\"fontTypeface\":{}},\"minorFontScheme\":{\"fontSchemeList\":[{\"name\":\"latin\",\"typeface\":\"Calibri\"},{\"name\":\"ea\"},{\"name\":\"cs\"}],\"fontTypeface\":{}}}},\"background\":{\"color\":\"#FFFFFFFF\"},\"styles\":[{\"name\":\"Normal\",\"type\":\"Paragraph\",\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":0,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"outlineLevel\":\"BodyText\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"characterFormat\":{\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":11,\"fontFamily\":\"Calibri\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#00000000\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":0,\"localeId\":0,\"localeIdFarEast\":0,\"complexScript\":false,\"characterSpacing\":0,\"scaling\":100}},\"next\":\"Normal\"},{\"name\":\"Heading 1\",\"type\":\"Paragraph\",\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":12,\"afterSpacing\":0,\"lineSpacing\":1.0791666507720947,\"lineSpacingType\":\"Multiple\",\"outlineLevel\":\"Level1\",\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":12,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1.0791666507720947,\"lineSpacingType\":\"Multiple\",\"outlineLevel\":\"Level1\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"characterFormat\":{\"fontSize\":16,\"fontFamily\":\"Calibri Light\",\"fontColor\":\"#2F5496FF\",\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":16,\"fontFamily\":\"Calibri Light\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#2F5496FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":0,\"localeId\":0,\"localeIdFarEast\":0,\"complexScript\":false,\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"characterSpacing\":0,\"scaling\":100}},\"basedOn\":\"Normal\",\"link\":\"Heading 1 Char\",\"next\":\"Normal\"},{\"name\":\"Heading 1 Char\",\"type\":\"Character\",\"characterFormat\":{\"fontSize\":16,\"fontFamily\":\"Calibri Light\",\"fontColor\":\"#2F5496FF\",\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":16,\"fontFamily\":\"Calibri Light\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#2F5496FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":0,\"localeId\":0,\"localeIdFarEast\":0,\"complexScript\":false,\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"characterSpacing\":0,\"scaling\":100}},\"basedOn\":\"Default Paragraph Font\"},{\"name\":\"Default Paragraph Font\",\"type\":\"Character\",\"characterFormat\":{\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"allCaps\":false,\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":11,\"fontFamily\":\"Calibri\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#00000000\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":0,\"localeId\":0,\"localeIdFarEast\":0,\"complexScript\":false,\"characterSpacing\":0,\"scaling\":100}}},{\"name\":\"Heading 2\",\"type\":\"Paragraph\",\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":2,\"afterSpacing\":0,\"lineSpacing\":1.0791666507720947,\"lineSpacingType\":\"Multiple\",\"outlineLevel\":\"Level2\",\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":2,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1.0791666507720947,\"lineSpacingType\":\"Multiple\",\"outlineLevel\":\"Level2\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"characterFormat\":{\"fontSize\":13,\"fontFamily\":\"Calibri Light\",\"fontColor\":\"#2F5496FF\",\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":13,\"fontFamily\":\"Calibri Light\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#2F5496FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":0,\"localeId\":0,\"localeIdFarEast\":0,\"complexScript\":false,\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"characterSpacing\":0,\"scaling\":100}},\"basedOn\":\"Normal\",\"link\":\"Heading 2 Char\",\"next\":\"Normal\"},{\"name\":\"Heading 2 Char\",\"type\":\"Character\",\"characterFormat\":{\"fontSize\":13,\"fontFamily\":\"Calibri Light\",\"fontColor\":\"#2F5496FF\",\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":13,\"fontFamily\":\"Calibri Light\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#2F5496FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":0,\"localeId\":0,\"localeIdFarEast\":0,\"complexScript\":false,\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"characterSpacing\":0,\"scaling\":100}},\"basedOn\":\"Default Paragraph Font\"},{\"name\":\"Heading 3\",\"type\":\"Paragraph\",\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":2,\"afterSpacing\":0,\"lineSpacing\":1.0791666507720947,\"lineSpacingType\":\"Multiple\",\"outlineLevel\":\"Level3\",\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":2,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1.0791666507720947,\"lineSpacingType\":\"Multiple\",\"outlineLevel\":\"Level3\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"characterFormat\":{\"fontSize\":12,\"fontFamily\":\"Calibri Light\",\"fontColor\":\"#1F3763FF\",\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":12,\"fontFamily\":\"Calibri Light\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#1F3763FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":0,\"localeId\":0,\"localeIdFarEast\":0,\"complexScript\":false,\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"characterSpacing\":0,\"scaling\":100}},\"basedOn\":\"Normal\",\"link\":\"Heading 3 Char\",\"next\":\"Normal\"},{\"name\":\"Heading 3 Char\",\"type\":\"Character\",\"characterFormat\":{\"fontSize\":12,\"fontFamily\":\"Calibri Light\",\"fontColor\":\"#1F3763FF\",\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":12,\"fontFamily\":\"Calibri Light\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#1F3763FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":0,\"localeId\":0,\"localeIdFarEast\":0,\"complexScript\":false,\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"characterSpacing\":0,\"scaling\":100}},\"basedOn\":\"Default Paragraph Font\"},{\"name\":\"Heading 4\",\"type\":\"Paragraph\",\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":2,\"afterSpacing\":0,\"lineSpacing\":1.0791666507720947,\"lineSpacingType\":\"Multiple\",\"outlineLevel\":\"Level4\",\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":2,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1.0791666507720947,\"lineSpacingType\":\"Multiple\",\"outlineLevel\":\"Level4\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"characterFormat\":{\"italic\":true,\"fontFamily\":\"Calibri Light\",\"fontColor\":\"#2F5496FF\",\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"inlineFormat\":{\"bold\":false,\"italic\":true,\"fontSize\":11,\"fontFamily\":\"Calibri Light\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#2F5496FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":0,\"localeId\":0,\"localeIdFarEast\":0,\"complexScript\":false,\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"characterSpacing\":0,\"scaling\":100}},\"basedOn\":\"Normal\",\"link\":\"Heading 4 Char\",\"next\":\"Normal\"},{\"name\":\"Heading 4 Char\",\"type\":\"Character\",\"characterFormat\":{\"italic\":true,\"fontFamily\":\"Calibri Light\",\"fontColor\":\"#2F5496FF\",\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"inlineFormat\":{\"bold\":false,\"italic\":true,\"fontSize\":11,\"fontFamily\":\"Calibri Light\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#2F5496FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":0,\"localeId\":0,\"localeIdFarEast\":0,\"complexScript\":false,\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"characterSpacing\":0,\"scaling\":100}},\"basedOn\":\"Default Paragraph Font\"},{\"name\":\"Heading 5\",\"type\":\"Paragraph\",\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":2,\"afterSpacing\":0,\"lineSpacing\":1.0791666507720947,\"lineSpacingType\":\"Multiple\",\"outlineLevel\":\"Level5\",\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":2,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1.0791666507720947,\"lineSpacingType\":\"Multiple\",\"outlineLevel\":\"Level5\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"characterFormat\":{\"fontFamily\":\"Calibri Light\",\"fontColor\":\"#2F5496FF\",\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":11,\"fontFamily\":\"Calibri Light\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#2F5496FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":0,\"localeId\":0,\"localeIdFarEast\":0,\"complexScript\":false,\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"characterSpacing\":0,\"scaling\":100}},\"basedOn\":\"Normal\",\"link\":\"Heading 5 Char\",\"next\":\"Normal\"},{\"name\":\"Heading 5 Char\",\"type\":\"Character\",\"characterFormat\":{\"fontFamily\":\"Calibri Light\",\"fontColor\":\"#2F5496FF\",\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":11,\"fontFamily\":\"Calibri Light\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#2F5496FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":0,\"localeId\":0,\"localeIdFarEast\":0,\"complexScript\":false,\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"characterSpacing\":0,\"scaling\":100}},\"basedOn\":\"Default Paragraph Font\"},{\"name\":\"Heading 6\",\"type\":\"Paragraph\",\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":2,\"afterSpacing\":0,\"lineSpacing\":1.0791666507720947,\"lineSpacingType\":\"Multiple\",\"outlineLevel\":\"Level6\",\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":2,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1.0791666507720947,\"lineSpacingType\":\"Multiple\",\"outlineLevel\":\"Level6\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"characterFormat\":{\"fontFamily\":\"Calibri Light\",\"fontColor\":\"#1F3763FF\",\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":11,\"fontFamily\":\"Calibri Light\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#1F3763FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":0,\"localeId\":0,\"localeIdFarEast\":0,\"complexScript\":false,\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"characterSpacing\":0,\"scaling\":100}},\"basedOn\":\"Normal\",\"link\":\"Heading 6 Char\",\"next\":\"Normal\"},{\"name\":\"Heading 6 Char\",\"type\":\"Character\",\"characterFormat\":{\"fontFamily\":\"Calibri Light\",\"fontColor\":\"#1F3763FF\",\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":11,\"fontFamily\":\"Calibri Light\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#1F3763FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":0,\"localeId\":0,\"localeIdFarEast\":0,\"complexScript\":false,\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"characterSpacing\":0,\"scaling\":100}},\"basedOn\":\"Default Paragraph Font\"},{\"name\":\"Heading 7\",\"type\":\"Paragraph\",\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":2,\"afterSpacing\":0,\"lineSpacing\":1.0791666507720947,\"lineSpacingType\":\"Multiple\",\"outlineLevel\":\"Level7\",\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":2,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1.0791666507720947,\"lineSpacingType\":\"Multiple\",\"outlineLevel\":\"Level7\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"characterFormat\":{\"italic\":true,\"fontFamily\":\"Calibri Light\",\"fontColor\":\"#1F3763FF\",\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"inlineFormat\":{\"bold\":false,\"italic\":true,\"fontSize\":11,\"fontFamily\":\"Calibri Light\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#1F3763FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":0,\"localeId\":0,\"localeIdFarEast\":0,\"complexScript\":false,\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"characterSpacing\":0,\"scaling\":100}},\"basedOn\":\"Normal\",\"link\":\"Heading 7 Char\",\"next\":\"Normal\"},{\"name\":\"Heading 7 Char\",\"type\":\"Character\",\"characterFormat\":{\"italic\":true,\"fontFamily\":\"Calibri Light\",\"fontColor\":\"#1F3763FF\",\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"inlineFormat\":{\"bold\":false,\"italic\":true,\"fontSize\":11,\"fontFamily\":\"Calibri Light\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#1F3763FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":0,\"localeId\":0,\"localeIdFarEast\":0,\"complexScript\":false,\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"characterSpacing\":0,\"scaling\":100}},\"basedOn\":\"Default Paragraph Font\"},{\"name\":\"Heading 8\",\"type\":\"Paragraph\",\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":2,\"afterSpacing\":0,\"lineSpacing\":1.0791666507720947,\"lineSpacingType\":\"Multiple\",\"outlineLevel\":\"Level8\",\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":2,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1.0791666507720947,\"lineSpacingType\":\"Multiple\",\"outlineLevel\":\"Level8\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"characterFormat\":{\"fontSize\":10.5,\"fontFamily\":\"Calibri Light\",\"fontColor\":\"#333333FF\",\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":10.5,\"fontFamily\":\"Calibri Light\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#333333FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":0,\"localeId\":0,\"localeIdFarEast\":0,\"complexScript\":false,\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"characterSpacing\":0,\"scaling\":100}},\"basedOn\":\"Normal\",\"link\":\"Heading 8 Char\",\"next\":\"Normal\"},{\"name\":\"Heading 8 Char\",\"type\":\"Character\",\"characterFormat\":{\"fontSize\":10.5,\"fontFamily\":\"Calibri Light\",\"fontColor\":\"#333333FF\",\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":10.5,\"fontFamily\":\"Calibri Light\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#333333FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":0,\"localeId\":0,\"localeIdFarEast\":0,\"complexScript\":false,\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"characterSpacing\":0,\"scaling\":100}},\"basedOn\":\"Default Paragraph Font\"},{\"name\":\"Heading 9\",\"type\":\"Paragraph\",\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":2,\"afterSpacing\":0,\"lineSpacing\":1.0791666507720947,\"lineSpacingType\":\"Multiple\",\"outlineLevel\":\"Level9\",\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":2,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1.0791666507720947,\"lineSpacingType\":\"Multiple\",\"outlineLevel\":\"Level9\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"characterFormat\":{\"italic\":true,\"fontSize\":10.5,\"fontFamily\":\"Calibri Light\",\"fontColor\":\"#333333FF\",\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"inlineFormat\":{\"bold\":false,\"italic\":true,\"fontSize\":10.5,\"fontFamily\":\"Calibri Light\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#333333FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":0,\"localeId\":0,\"localeIdFarEast\":0,\"complexScript\":false,\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"characterSpacing\":0,\"scaling\":100}},\"basedOn\":\"Normal\",\"link\":\"Heading 9 Char\",\"next\":\"Normal\"},{\"name\":\"Heading 9 Char\",\"type\":\"Character\",\"characterFormat\":{\"italic\":true,\"fontSize\":10.5,\"fontFamily\":\"Calibri Light\",\"fontColor\":\"#333333FF\",\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"inlineFormat\":{\"bold\":false,\"italic\":true,\"fontSize\":10.5,\"fontFamily\":\"Calibri Light\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#333333FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":0,\"localeId\":0,\"localeIdFarEast\":0,\"complexScript\":false,\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"characterSpacing\":0,\"scaling\":100}},\"basedOn\":\"Default Paragraph Font\"},{\"name\":\"Normal Table\",\"type\":\"Table\",\"next\":\"Normal Table\"},{\"name\":\"Line Number\",\"type\":\"Character\",\"characterFormat\":{\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":11,\"fontFamily\":\"Calibri\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#00000000\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":0,\"localeId\":0,\"localeIdFarEast\":0,\"complexScript\":false,\"characterSpacing\":0,\"scaling\":100}},\"basedOn\":\"Default Paragraph Font\"},{\"name\":\"Hyperlink\",\"type\":\"Character\",\"characterFormat\":{\"underline\":\"Single\",\"fontColor\":\"#0000FFFF\",\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":11,\"fontFamily\":\"Calibri\",\"underline\":\"Single\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#0000FFFF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":0,\"localeId\":0,\"localeIdFarEast\":0,\"complexScript\":false,\"characterSpacing\":0,\"scaling\":100}},\"basedOn\":\"Default Paragraph Font\"},{\"name\":\"Table Simple 1\",\"type\":\"Table\",\"basedOn\":\"Normal Table\",\"next\":\"Table Simple 1\"},{\"name\":\"Header\",\"type\":\"Paragraph\",\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"afterSpacing\":0,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":0,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"outlineLevel\":\"BodyText\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"characterFormat\":{\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":11,\"fontFamily\":\"Calibri\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#00000000\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":0,\"localeId\":0,\"localeIdFarEast\":0,\"complexScript\":false,\"characterSpacing\":0,\"scaling\":100}},\"basedOn\":\"Normal\",\"next\":\"Header\"},{\"name\":\"Footer\",\"type\":\"Paragraph\",\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"afterSpacing\":0,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":0,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"outlineLevel\":\"BodyText\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"characterFormat\":{\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":11,\"fontFamily\":\"Calibri\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#00000000\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":0,\"localeId\":0,\"localeIdFarEast\":0,\"complexScript\":false,\"characterSpacing\":0,\"scaling\":100}},\"basedOn\":\"Normal\",\"next\":\"Footer\"},{\"name\":\"Table Grid\",\"type\":\"Table\",\"basedOn\":\"Normal Table\",\"next\":\"Table Grid\"},{\"name\":\"Normal (Web)\",\"type\":\"Paragraph\",\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"beforeSpacing\":5,\"afterSpacing\":5,\"spaceBeforeAuto\":true,\"spaceAfterAuto\":true,\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":5,\"afterSpacing\":5,\"spaceBeforeAuto\":true,\"spaceAfterAuto\":true,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"outlineLevel\":\"BodyText\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"characterFormat\":{\"fontSize\":12,\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":12,\"fontFamily\":\"Calibri\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#00000000\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":0,\"localeId\":0,\"localeIdFarEast\":0,\"complexScript\":false,\"characterSpacing\":0,\"scaling\":100}},\"basedOn\":\"Normal\",\"next\":\"Normal (Web)\"}],\"lists\":[{\"abstractListId\":0,\"levelOverrides\":[],\"listId\":0,\"nsid\":39812443}],\"abstractLists\":[{\"abstractListId\":0,\"nsid\":39812443,\"levels\":[{\"characterFormat\":{\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":11,\"fontFamily\":\"Calibri\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#00000000\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":0,\"localeId\":0,\"localeIdFarEast\":0,\"complexScript\":false,\"characterSpacing\":0,\"scaling\":100}},\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":36,\"firstLineIndent\":-18,\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":36,\"rightIndent\":0,\"firstLineIndent\":-18,\"textAlignment\":\"Left\",\"beforeSpacing\":0,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"outlineLevel\":\"BodyText\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"isLegalStyleNumbering\":false,\"followCharacter\":\"Space\",\"listLevelPattern\":\"Arabic\",\"numberFormat\":\"%1.\",\"paraStyleName\":\"\",\"restartLevel\":0,\"startAt\":1},{\"characterFormat\":{\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":11,\"fontFamily\":\"Calibri\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#00000000\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":0,\"localeId\":0,\"localeIdFarEast\":0,\"complexScript\":false,\"characterSpacing\":0,\"scaling\":100}},\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":0,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"outlineLevel\":\"BodyText\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"isLegalStyleNumbering\":false,\"followCharacter\":\"Tab\",\"listLevelPattern\":\"Arabic\",\"numberFormat\":\"%2\",\"paraStyleName\":\"\",\"restartLevel\":1,\"startAt\":1},{\"characterFormat\":{\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":11,\"fontFamily\":\"Calibri\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#00000000\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":0,\"localeId\":0,\"localeIdFarEast\":0,\"complexScript\":false,\"characterSpacing\":0,\"scaling\":100}},\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":0,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"outlineLevel\":\"BodyText\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"isLegalStyleNumbering\":false,\"followCharacter\":\"Tab\",\"listLevelPattern\":\"Arabic\",\"numberFormat\":\"%3\",\"paraStyleName\":\"\",\"restartLevel\":2,\"startAt\":1},{\"characterFormat\":{\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":11,\"fontFamily\":\"Calibri\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#00000000\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":0,\"localeId\":0,\"localeIdFarEast\":0,\"complexScript\":false,\"characterSpacing\":0,\"scaling\":100}},\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":0,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"outlineLevel\":\"BodyText\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"isLegalStyleNumbering\":false,\"followCharacter\":\"Tab\",\"listLevelPattern\":\"Arabic\",\"numberFormat\":\"%4\",\"paraStyleName\":\"\",\"restartLevel\":3,\"startAt\":1},{\"characterFormat\":{\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":11,\"fontFamily\":\"Calibri\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#00000000\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":0,\"localeId\":0,\"localeIdFarEast\":0,\"complexScript\":false,\"characterSpacing\":0,\"scaling\":100}},\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":0,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"outlineLevel\":\"BodyText\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"isLegalStyleNumbering\":false,\"followCharacter\":\"Tab\",\"listLevelPattern\":\"Arabic\",\"numberFormat\":\"%5\",\"paraStyleName\":\"\",\"restartLevel\":4,\"startAt\":1},{\"characterFormat\":{\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":11,\"fontFamily\":\"Calibri\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#00000000\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":0,\"localeId\":0,\"localeIdFarEast\":0,\"complexScript\":false,\"characterSpacing\":0,\"scaling\":100}},\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":0,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"outlineLevel\":\"BodyText\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"isLegalStyleNumbering\":false,\"followCharacter\":\"Tab\",\"listLevelPattern\":\"Arabic\",\"numberFormat\":\"%6\",\"paraStyleName\":\"\",\"restartLevel\":5,\"startAt\":1},{\"characterFormat\":{\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":11,\"fontFamily\":\"Calibri\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#00000000\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":0,\"localeId\":0,\"localeIdFarEast\":0,\"complexScript\":false,\"characterSpacing\":0,\"scaling\":100}},\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":0,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"outlineLevel\":\"BodyText\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"isLegalStyleNumbering\":false,\"followCharacter\":\"Tab\",\"listLevelPattern\":\"Arabic\",\"numberFormat\":\"%7\",\"paraStyleName\":\"\",\"restartLevel\":6,\"startAt\":1},{\"characterFormat\":{\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":11,\"fontFamily\":\"Calibri\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#00000000\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":0,\"localeId\":0,\"localeIdFarEast\":0,\"complexScript\":false,\"characterSpacing\":0,\"scaling\":100}},\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":0,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"outlineLevel\":\"BodyText\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"isLegalStyleNumbering\":false,\"followCharacter\":\"Tab\",\"listLevelPattern\":\"Arabic\",\"numberFormat\":\"%8\",\"paraStyleName\":\"\",\"restartLevel\":7,\"startAt\":1},{\"characterFormat\":{\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":11,\"fontFamily\":\"Calibri\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#00000000\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":0,\"localeId\":0,\"localeIdFarEast\":0,\"complexScript\":false,\"characterSpacing\":0,\"scaling\":100}},\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":0,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"outlineLevel\":\"BodyText\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"isLegalStyleNumbering\":false,\"followCharacter\":\"Tab\",\"listLevelPattern\":\"Arabic\",\"numberFormat\":\"%9\",\"paraStyleName\":\"\",\"restartLevel\":8,\"startAt\":1}]}],\"comments\":[],\"revisions\":[],\"customXml\":[],\"images\":{},\"footnotes\":{\"separator\":[{\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"styleName\":\"Normal\",\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":0,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"styleName\":\"Normal\",\"outlineLevel\":\"BodyText\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"characterFormat\":{\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":10,\"fontFamily\":\"Tahoma\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#000000\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":1025,\"localeId\":1033,\"localeIdFarEast\":1033,\"complexScript\":false,\"fontFamilyAscii\":\"Tahoma\",\"fontFamilyNonFarEast\":\"Tahoma\",\"characterSpacing\":0,\"scaling\":100}},\"inlines\":[{\"characterFormat\":{\"inlineFormat\":{\"bold\":false,\"italic\":false,\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":1025,\"localeId\":1033,\"localeIdFarEast\":1033,\"complexScript\":false}},\"text\":\"\\u0003\"}]}],\"continuationSeparator\":[{\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"styleName\":\"Normal\",\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":0,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"styleName\":\"Normal\",\"outlineLevel\":\"BodyText\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"characterFormat\":{\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":10,\"fontFamily\":\"Tahoma\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#000000\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":1025,\"localeId\":1033,\"localeIdFarEast\":1033,\"complexScript\":false,\"fontFamilyAscii\":\"Tahoma\",\"fontFamilyNonFarEast\":\"Tahoma\",\"characterSpacing\":0,\"scaling\":100}},\"inlines\":[{\"characterFormat\":{\"inlineFormat\":{\"bold\":false,\"italic\":false,\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":1025,\"localeId\":1033,\"localeIdFarEast\":1033,\"complexScript\":false}},\"text\":\"\\u0004\"}]}],\"continuationNotice\":[{\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"styleName\":\"Normal\",\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":0,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"styleName\":\"Normal\",\"outlineLevel\":\"BodyText\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"characterFormat\":{\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":10,\"fontFamily\":\"Tahoma\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#000000\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":1025,\"localeId\":1033,\"localeIdFarEast\":1033,\"complexScript\":false,\"fontFamilyAscii\":\"Tahoma\",\"fontFamilyNonFarEast\":\"Tahoma\",\"characterSpacing\":0,\"scaling\":100}},\"inlines\":[]}]},\"endnotes\":{\"separator\":[{\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"styleName\":\"Normal\",\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":0,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"styleName\":\"Normal\",\"outlineLevel\":\"BodyText\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"characterFormat\":{\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":10,\"fontFamily\":\"Tahoma\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#000000\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":1025,\"localeId\":1033,\"localeIdFarEast\":1033,\"complexScript\":false,\"fontFamilyAscii\":\"Tahoma\",\"fontFamilyNonFarEast\":\"Tahoma\",\"characterSpacing\":0,\"scaling\":100}},\"inlines\":[{\"characterFormat\":{\"inlineFormat\":{\"bold\":false,\"italic\":false,\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":1025,\"localeId\":1033,\"localeIdFarEast\":1033,\"complexScript\":false}},\"text\":\"\\u0003\"}]}],\"continuationSeparator\":[{\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"styleName\":\"Normal\",\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":0,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"styleName\":\"Normal\",\"outlineLevel\":\"BodyText\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"characterFormat\":{\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":10,\"fontFamily\":\"Tahoma\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#000000\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":1025,\"localeId\":1033,\"localeIdFarEast\":1033,\"complexScript\":false,\"fontFamilyAscii\":\"Tahoma\",\"fontFamilyNonFarEast\":\"Tahoma\",\"characterSpacing\":0,\"scaling\":100}},\"inlines\":[{\"characterFormat\":{\"inlineFormat\":{\"bold\":false,\"italic\":false,\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":1025,\"localeId\":1033,\"localeIdFarEast\":1033,\"complexScript\":false}},\"text\":\"\\u0004\"}]}],\"continuationNotice\":[{\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"styleName\":\"Normal\",\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":0,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"styleName\":\"Normal\",\"outlineLevel\":\"BodyText\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"characterFormat\":{\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":10,\"fontFamily\":\"Tahoma\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#000000\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":1025,\"localeId\":1033,\"localeIdFarEast\":1033,\"complexScript\":false,\"fontFamilyAscii\":\"Tahoma\",\"fontFamilyNonFarEast\":\"Tahoma\",\"characterSpacing\":0,\"scaling\":100}},\"inlines\":[]}]}}"
-.items3 item(s) available
-kind type getAsString() / getAsFile()
-string text/plain
-
-TenantID: xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxxx0
-
-ClientID: xxxxxxxx-xxxx-xxxx- xxxx-xxxxxxxxxxxx8
-
-ClientKeyID: xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx2
-
-ClientKeyDescription: Cxxxxxxxxxxxx9
-
-asdf
-string text/html
-
-<meta charset='utf-8'><p style="font-weight:normal;font-style:normal;color:#000000;font-size:10pt;font-family:Tahoma;letter-spacing:0pt;transform:scaleX(1);text-align:left;margin-top:0pt; margin-right:0pt; margin-bottom:0pt; margin-left:0pt; line-height:normal;;white-space:pre">&nbsp;</p><p style="font-weight:normal;font-style:normal;color:#000000;font-size:10pt;font-family:Tahoma;letter-spacing:0pt;transform:scaleX(1);font-weight:normal;font-style:normal;color:#000000;font-size:10pt;font-family:Tahoma;letter-spacing:0pt;transform:scaleX(1);text-align:left;margin-top:0pt; margin-right:0pt; margin-bottom:0pt; margin-left:0pt; line-height:normal;;white-space:pre"><span style="font-weight:normal;font-style:normal;color:#000000;">TenantID: xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxxx0   </span></p><p style="font-weight:normal;font-style:normal;color:#000000;font-size:10pt;font-family:Tahoma;letter-spacing:0pt;transform:scaleX(1);text-align:left;margin-top:0pt; margin-right:0pt; margin-bottom:0pt; margin-left:0pt; line-height:normal;;white-space:pre">&nbsp;</p><p style="font-weight:normal;font-style:normal;color:#000000;font-size:10pt;font-family:Tahoma;letter-spacing:0pt;transform:scaleX(1);font-weight:normal;font-style:normal;color:#000000;font-size:10pt;font-family:Tahoma;letter-spacing:0pt;transform:scaleX(1);text-align:left;margin-top:0pt; margin-right:0pt; margin-bottom:0pt; margin-left:0pt; line-height:normal;;white-space:pre"><span style="font-weight:normal;font-style:normal;color:#000000;">ClientID: xxxxxxxx-xxxx-xxxx-</span><span style="font-weight:normal;font-style:normal;color:#000000;"> xxxx-xxxxxxxxxxxx8 </span></p><p style="font-weight:normal;font-style:normal;color:#000000;font-size:10pt;font-family:Tahoma;letter-spacing:0pt;transform:scaleX(1);text-align:left;margin-top:0pt; margin-right:0pt; margin-bottom:0pt; margin-left:0pt; line-height:normal;;white-space:pre">&nbsp;</p><p style="font-weight:normal;font-style:normal;color:#000000;font-size:10pt;font-family:Tahoma;letter-spacing:0pt;transform:scaleX(1);font-weight:normal;font-style:normal;color:#000000;font-size:10pt;font-family:Tahoma;letter-spacing:0pt;transform:scaleX(1);text-align:left;margin-top:0pt; margin-right:0pt; margin-bottom:0pt; margin-left:0pt; line-height:normal;;white-space:pre"><span style="font-weight:normal;font-style:normal;color:#000000;">ClientKeyID: xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx2</span></p><p style="font-weight:normal;font-style:normal;color:#000000;font-size:10pt;font-family:Tahoma;letter-spacing:0pt;transform:scaleX(1);font-weight:normal;font-style:normal;color:#000000;font-size:10pt;font-family:Tahoma;letter-spacing:0pt;transform:scaleX(1);text-align:left;margin-top:0pt; margin-right:0pt; margin-bottom:0pt; margin-left:0pt; line-height:normal;;white-space:pre"><span style="font-weight:normal;font-style:normal;color:#000000;"> </span></p><p style="font-weight:normal;font-style:normal;color:#000000;font-size:10pt;font-family:Tahoma;letter-spacing:0pt;transform:scaleX(1);font-weight:normal;font-style:normal;color:#000000;font-size:10pt;font-family:Tahoma;letter-spacing:0pt;transform:scaleX(1);text-align:left;margin-top:0pt; margin-right:0pt; margin-bottom:0pt; margin-left:0pt; line-height:normal;;white-space:pre"><span style="font-weight:normal;font-style:normal;color:#000000;">ClientKeyDescription: Cxxxxxxxxxxxx9 </span></p><p style="font-weight:normal;font-style:normal;color:#000000;font-size:10pt;font-family:Tahoma;letter-spacing:0pt;transform:scaleX(1);font-weight:normal;font-style:normal;color:#000000;font-size:10pt;font-family:Tahoma;letter-spacing:0pt;transform:scaleX(1);text-align:left;margin-top:0pt; margin-right:0pt; margin-bottom:0pt; margin-left:0pt; line-height:normal;;white-space:pre"><span style="font-weight:normal;font-style:normal;color:#000000;"> </span></p><ol type="1" start="1"><li style="font-weight:normal;font-style:normal;color:#000000;font-size:12pt;font-family:Tahoma;letter-spacing:0pt;transform:scaleX(1);font-weight:normal;font-style:normal;color:#000000;font-size:12pt;font-family:Tahoma;letter-spacing:0pt;transform:scaleX(1);text-align:left;margin-top:0pt; margin-right:0pt; margin-bottom:0pt; margin-left:0pt; line-height:normal;;white-space:pre"><span style="font-weight:normal;font-style:normal;color:#000000;font-size:12pt;">asdf</span></li></ol>
-string	application/json	
-"{\"optimizeSfdt\":false,\"allowHyphensInBookmarkNames\":false,\"sections\":[{\"sectionFormat\":{\"pageWidth\":612,\"pageHeight\":792,\"leftMargin\":50.400001525878906,\"rightMargin\":57.599998474121094,\"topMargin\":15.100000381469727,\"bottomMargin\":56.650001525878906,\"headerDistance\":35.400001525878906,\"footerDistance\":35.400001525878906,\"differentFirstPage\":false,\"differentOddAndEvenPages\":false,\"bidi\":false,\"breakCode\":\"NewPage\",\"endnoteNumberFormat\":\"LowerCaseRoman\",\"footNoteNumberFormat\":\"Arabic\",\"restartIndexForFootnotes\":\"DoNotRestart\",\"restartIndexForEndnotes\":\"DoNotRestart\",\"initialFootNoteNumber\":1,\"initialEndNoteNumber\":1,\"pageNumberStyle\":\"Arabic\",\"numberOfColumns\":1,\"equalWidth\":true,\"lineBetweenColumns\":false,\"columns\":[]},\"blocks\":[{\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"styleName\":\"Normal\",\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":0,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"styleName\":\"Normal\",\"outlineLevel\":\"BodyText\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"characterFormat\":{\"fontColor\":\"#000000FF\",\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":10,\"fontFamily\":\"Tahoma\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#000000FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":1025,\"localeId\":1033,\"localeIdFarEast\":1033,\"complexScript\":false,\"fontFamilyAscii\":\"Tahoma\",\"fontFamilyNonFarEast\":\"Tahoma\",\"characterSpacing\":0,\"scaling\":100}},\"inlines\":[]},{\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"styleName\":\"Normal\",\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":0,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"styleName\":\"Normal\",\"outlineLevel\":\"BodyText\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"characterFormat\":{\"fontColor\":\"#000000FF\",\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":10,\"fontFamily\":\"Tahoma\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#000000FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":1025,\"localeId\":1033,\"localeIdFarEast\":1033,\"complexScript\":false,\"fontFamilyAscii\":\"Tahoma\",\"fontFamilyNonFarEast\":\"Tahoma\",\"characterSpacing\":0,\"scaling\":100}},\"inlines\":[{\"characterFormat\":{\"fontColor\":\"#000000FF\",\"inlineFormat\":{\"bold\":false,\"italic\":false,\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#000000FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":1025,\"localeId\":1033,\"localeIdFarEast\":1033,\"complexScript\":false}},\"text\":\"TenantID: xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxxx0   \"}]},{\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"styleName\":\"Normal\",\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":0,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"styleName\":\"Normal\",\"outlineLevel\":\"BodyText\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"characterFormat\":{\"fontColor\":\"#000000FF\",\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":10,\"fontFamily\":\"Tahoma\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#000000FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":1025,\"localeId\":1033,\"localeIdFarEast\":1033,\"complexScript\":false,\"fontFamilyAscii\":\"Tahoma\",\"fontFamilyNonFarEast\":\"Tahoma\",\"characterSpacing\":0,\"scaling\":100}},\"inlines\":[]},{\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"styleName\":\"Normal\",\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":0,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"styleName\":\"Normal\",\"outlineLevel\":\"BodyText\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"characterFormat\":{\"fontColor\":\"#000000FF\",\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":10,\"fontFamily\":\"Tahoma\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#000000FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":1025,\"localeId\":1033,\"localeIdFarEast\":1033,\"complexScript\":false,\"fontFamilyAscii\":\"Tahoma\",\"fontFamilyNonFarEast\":\"Tahoma\",\"characterSpacing\":0,\"scaling\":100}},\"inlines\":[{\"characterFormat\":{\"fontColor\":\"#000000FF\",\"inlineFormat\":{\"bold\":false,\"italic\":false,\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#000000FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":1025,\"localeId\":1033,\"localeIdFarEast\":1033,\"complexScript\":false}},\"text\":\"ClientID: xxxxxxxx-xxxx-xxxx-\"},{\"characterFormat\":{\"fontColor\":\"#000000FF\",\"inlineFormat\":{\"bold\":false,\"italic\":false,\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#000000FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":1025,\"localeId\":1033,\"localeIdFarEast\":1033,\"complexScript\":false}},\"text\":\" xxxx-xxxxxxxxxxxx8 \"}]},{\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"styleName\":\"Normal\",\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":0,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"styleName\":\"Normal\",\"outlineLevel\":\"BodyText\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"characterFormat\":{\"fontColor\":\"#000000FF\",\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":10,\"fontFamily\":\"Tahoma\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#000000FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":1025,\"localeId\":1033,\"localeIdFarEast\":1033,\"complexScript\":false,\"fontFamilyAscii\":\"Tahoma\",\"fontFamilyNonFarEast\":\"Tahoma\",\"characterSpacing\":0,\"scaling\":100}},\"inlines\":[]},{\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"styleName\":\"Normal\",\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":0,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"styleName\":\"Normal\",\"outlineLevel\":\"BodyText\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"characterFormat\":{\"fontColor\":\"#000000FF\",\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":10,\"fontFamily\":\"Tahoma\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#000000FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":1025,\"localeId\":1033,\"localeIdFarEast\":1033,\"complexScript\":false,\"fontFamilyAscii\":\"Tahoma\",\"fontFamilyNonFarEast\":\"Tahoma\",\"characterSpacing\":0,\"scaling\":100}},\"inlines\":[{\"characterFormat\":{\"fontColor\":\"#000000FF\",\"inlineFormat\":{\"bold\":false,\"italic\":false,\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#000000FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":1025,\"localeId\":1033,\"localeIdFarEast\":1033,\"complexScript\":false}},\"text\":\"ClientKeyID: xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx2\"}]},{\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"styleName\":\"Normal\",\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":0,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"styleName\":\"Normal\",\"outlineLevel\":\"BodyText\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"characterFormat\":{\"fontColor\":\"#000000FF\",\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":10,\"fontFamily\":\"Tahoma\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#000000FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":1025,\"localeId\":1033,\"localeIdFarEast\":1033,\"complexScript\":false,\"fontFamilyAscii\":\"Tahoma\",\"fontFamilyNonFarEast\":\"Tahoma\",\"characterSpacing\":0,\"scaling\":100}},\"inlines\":[{\"characterFormat\":{\"fontColor\":\"#000000FF\",\"bidi\":false,\"inlineFormat\":{\"bold\":false,\"italic\":false,\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#000000FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":1025,\"localeId\":1033,\"localeIdFarEast\":1033,\"complexScript\":false}},\"text\":\" \"}]},{\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"styleName\":\"Normal\",\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":0,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"styleName\":\"Normal\",\"outlineLevel\":\"BodyText\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"characterFormat\":{\"fontColor\":\"#000000FF\",\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":10,\"fontFamily\":\"Tahoma\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#000000FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":1025,\"localeId\":1033,\"localeIdFarEast\":1033,\"complexScript\":false,\"fontFamilyAscii\":\"Tahoma\",\"fontFamilyNonFarEast\":\"Tahoma\",\"characterSpacing\":0,\"scaling\":100}},\"inlines\":[{\"characterFormat\":{\"fontColor\":\"#000000FF\",\"inlineFormat\":{\"bold\":false,\"italic\":false,\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#000000FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":1025,\"localeId\":1033,\"localeIdFarEast\":1033,\"complexScript\":false}},\"text\":\"ClientKeyDescription: Cxxxxxxxxxxxx9 \"}]},{\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"styleName\":\"Normal\",\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":0,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"styleName\":\"Normal\",\"outlineLevel\":\"BodyText\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"characterFormat\":{\"fontColor\":\"#000000FF\",\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":10,\"fontFamily\":\"Tahoma\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#000000FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":1025,\"localeId\":1033,\"localeIdFarEast\":1033,\"complexScript\":false,\"fontFamilyAscii\":\"Tahoma\",\"fontFamilyNonFarEast\":\"Tahoma\",\"characterSpacing\":0,\"scaling\":100}},\"inlines\":[{\"characterFormat\":{\"fontColor\":\"#000000FF\",\"bidi\":false,\"inlineFormat\":{\"bold\":false,\"italic\":false,\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#000000FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":1025,\"localeId\":1033,\"localeIdFarEast\":1033,\"complexScript\":false}},\"text\":\" \"}]},{\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"styleName\":\"Normal\",\"listFormat\":{\"listId\":0,\"listLevelNumber\":0,\"nsid\":39812443},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":36,\"rightIndent\":0,\"firstLineIndent\":-18,\"textAlignment\":\"Left\",\"beforeSpacing\":0,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"styleName\":\"Normal\",\"outlineLevel\":\"BodyText\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{\"listId\":0,\"listLevelNumber\":0,\"nsid\":39812443}}},\"characterFormat\":{\"fontSize\":12,\"fontColor\":\"#000000FF\",\"bidi\":false,\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":12,\"fontFamily\":\"Tahoma\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#000000FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":1025,\"localeId\":1033,\"localeIdFarEast\":1033,\"complexScript\":false,\"fontFamilyAscii\":\"Tahoma\",\"fontFamilyNonFarEast\":\"Tahoma\",\"characterSpacing\":0,\"scaling\":100}},\"inlines\":[{\"characterFormat\":{\"fontSize\":12,\"fontColor\":\"#000000FF\",\"bidi\":false,\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":12,\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#000000FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":1025,\"localeId\":1033,\"localeIdFarEast\":1033,\"complexScript\":false}},\"text\":\"asdf\"}]}],\"headersFooters\":{}}],\"characterFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":10,\"fontFamily\":\"Tahoma\",\"underline\":\"None\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"fontColor\":\"#000000\",\"allCaps\":false,\"localeIdBidi\":1025,\"localeId\":1033,\"localeIdFarEast\":1033,\"hidden\":false,\"fontFamilyAscii\":\"Tahoma\",\"fontFamilyNonFarEast\":\"Tahoma\",\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":10,\"fontFamily\":\"Tahoma\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#000000\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":1025,\"localeId\":1033,\"localeIdFarEast\":1033,\"complexScript\":false,\"hidden\":false,\"fontFamilyAscii\":\"Tahoma\",\"fontFamilyNonFarEast\":\"Tahoma\",\"characterSpacing\":0,\"scaling\":100}},\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":0,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":0,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"outlineLevel\":\"BodyText\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"fontSubstitutionTable\":{},\"themeFontLanguages\":{\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":10,\"fontFamily\":\"Tahoma\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#000000\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":1025,\"localeId\":1033,\"localeIdFarEast\":1033,\"complexScript\":false,\"fontFamilyAscii\":\"Tahoma\",\"fontFamilyNonFarEast\":\"Tahoma\",\"characterSpacing\":0,\"scaling\":100}},\"defaultTabWidth\":36,\"trackChanges\":false,\"enforcement\":false,\"hashValue\":\"\",\"saltValue\":\"\",\"formatting\":false,\"protectionType\":\"NoProtection\",\"dontUseHTMLParagraphAutoSpacing\":false,\"formFieldShading\":true,\"compatibilityMode\":\"Word2007\",\"allowSpaceOfSameStyleInTable\":false,\"themes\":{\"fontScheme\":{\"fontSchemeName\":\"Office\",\"majorFontScheme\":{\"fontSchemeList\":[{\"name\":\"latin\",\"typeface\":\"Calibri Light\"},{\"name\":\"ea\"},{\"name\":\"cs\"}],\"fontTypeface\":{}},\"minorFontScheme\":{\"fontSchemeList\":[{\"name\":\"latin\",\"typeface\":\"Calibri\"},{\"name\":\"ea\"},{\"name\":\"cs\"}],\"fontTypeface\":{}}}},\"background\":{\"color\":\"#FFFFFFFF\"},\"styles\":[{\"name\":\"Normal\",\"type\":\"Paragraph\",\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":0,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"outlineLevel\":\"BodyText\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"characterFormat\":{\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":11,\"fontFamily\":\"Calibri\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#00000000\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":0,\"localeId\":0,\"localeIdFarEast\":0,\"complexScript\":false,\"characterSpacing\":0,\"scaling\":100}},\"next\":\"Normal\"},{\"name\":\"Heading 1\",\"type\":\"Paragraph\",\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":12,\"afterSpacing\":0,\"lineSpacing\":1.0791666507720947,\"lineSpacingType\":\"Multiple\",\"outlineLevel\":\"Level1\",\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":12,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1.0791666507720947,\"lineSpacingType\":\"Multiple\",\"outlineLevel\":\"Level1\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"characterFormat\":{\"fontSize\":16,\"fontFamily\":\"Calibri Light\",\"fontColor\":\"#2F5496FF\",\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":16,\"fontFamily\":\"Calibri Light\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#2F5496FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":0,\"localeId\":0,\"localeIdFarEast\":0,\"complexScript\":false,\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"characterSpacing\":0,\"scaling\":100}},\"basedOn\":\"Normal\",\"link\":\"Heading 1 Char\",\"next\":\"Normal\"},{\"name\":\"Heading 1 Char\",\"type\":\"Character\",\"characterFormat\":{\"fontSize\":16,\"fontFamily\":\"Calibri Light\",\"fontColor\":\"#2F5496FF\",\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":16,\"fontFamily\":\"Calibri Light\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#2F5496FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":0,\"localeId\":0,\"localeIdFarEast\":0,\"complexScript\":false,\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"characterSpacing\":0,\"scaling\":100}},\"basedOn\":\"Default Paragraph Font\"},{\"name\":\"Default Paragraph Font\",\"type\":\"Character\",\"characterFormat\":{\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"allCaps\":false,\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":11,\"fontFamily\":\"Calibri\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#00000000\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":0,\"localeId\":0,\"localeIdFarEast\":0,\"complexScript\":false,\"characterSpacing\":0,\"scaling\":100}}},{\"name\":\"Heading 2\",\"type\":\"Paragraph\",\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":2,\"afterSpacing\":0,\"lineSpacing\":1.0791666507720947,\"lineSpacingType\":\"Multiple\",\"outlineLevel\":\"Level2\",\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":2,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1.0791666507720947,\"lineSpacingType\":\"Multiple\",\"outlineLevel\":\"Level2\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"characterFormat\":{\"fontSize\":13,\"fontFamily\":\"Calibri Light\",\"fontColor\":\"#2F5496FF\",\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":13,\"fontFamily\":\"Calibri Light\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#2F5496FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":0,\"localeId\":0,\"localeIdFarEast\":0,\"complexScript\":false,\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"characterSpacing\":0,\"scaling\":100}},\"basedOn\":\"Normal\",\"link\":\"Heading 2 Char\",\"next\":\"Normal\"},{\"name\":\"Heading 2 Char\",\"type\":\"Character\",\"characterFormat\":{\"fontSize\":13,\"fontFamily\":\"Calibri Light\",\"fontColor\":\"#2F5496FF\",\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":13,\"fontFamily\":\"Calibri Light\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#2F5496FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":0,\"localeId\":0,\"localeIdFarEast\":0,\"complexScript\":false,\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"characterSpacing\":0,\"scaling\":100}},\"basedOn\":\"Default Paragraph Font\"},{\"name\":\"Heading 3\",\"type\":\"Paragraph\",\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":2,\"afterSpacing\":0,\"lineSpacing\":1.0791666507720947,\"lineSpacingType\":\"Multiple\",\"outlineLevel\":\"Level3\",\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":2,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1.0791666507720947,\"lineSpacingType\":\"Multiple\",\"outlineLevel\":\"Level3\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"characterFormat\":{\"fontSize\":12,\"fontFamily\":\"Calibri Light\",\"fontColor\":\"#1F3763FF\",\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":12,\"fontFamily\":\"Calibri Light\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#1F3763FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":0,\"localeId\":0,\"localeIdFarEast\":0,\"complexScript\":false,\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"characterSpacing\":0,\"scaling\":100}},\"basedOn\":\"Normal\",\"link\":\"Heading 3 Char\",\"next\":\"Normal\"},{\"name\":\"Heading 3 Char\",\"type\":\"Character\",\"characterFormat\":{\"fontSize\":12,\"fontFamily\":\"Calibri Light\",\"fontColor\":\"#1F3763FF\",\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":12,\"fontFamily\":\"Calibri Light\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#1F3763FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":0,\"localeId\":0,\"localeIdFarEast\":0,\"complexScript\":false,\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"characterSpacing\":0,\"scaling\":100}},\"basedOn\":\"Default Paragraph Font\"},{\"name\":\"Heading 4\",\"type\":\"Paragraph\",\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":2,\"afterSpacing\":0,\"lineSpacing\":1.0791666507720947,\"lineSpacingType\":\"Multiple\",\"outlineLevel\":\"Level4\",\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":2,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1.0791666507720947,\"lineSpacingType\":\"Multiple\",\"outlineLevel\":\"Level4\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"characterFormat\":{\"italic\":true,\"fontFamily\":\"Calibri Light\",\"fontColor\":\"#2F5496FF\",\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"inlineFormat\":{\"bold\":false,\"italic\":true,\"fontSize\":11,\"fontFamily\":\"Calibri Light\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#2F5496FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":0,\"localeId\":0,\"localeIdFarEast\":0,\"complexScript\":false,\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"characterSpacing\":0,\"scaling\":100}},\"basedOn\":\"Normal\",\"link\":\"Heading 4 Char\",\"next\":\"Normal\"},{\"name\":\"Heading 4 Char\",\"type\":\"Character\",\"characterFormat\":{\"italic\":true,\"fontFamily\":\"Calibri Light\",\"fontColor\":\"#2F5496FF\",\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"inlineFormat\":{\"bold\":false,\"italic\":true,\"fontSize\":11,\"fontFamily\":\"Calibri Light\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#2F5496FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":0,\"localeId\":0,\"localeIdFarEast\":0,\"complexScript\":false,\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"characterSpacing\":0,\"scaling\":100}},\"basedOn\":\"Default Paragraph Font\"},{\"name\":\"Heading 5\",\"type\":\"Paragraph\",\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":2,\"afterSpacing\":0,\"lineSpacing\":1.0791666507720947,\"lineSpacingType\":\"Multiple\",\"outlineLevel\":\"Level5\",\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":2,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1.0791666507720947,\"lineSpacingType\":\"Multiple\",\"outlineLevel\":\"Level5\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"characterFormat\":{\"fontFamily\":\"Calibri Light\",\"fontColor\":\"#2F5496FF\",\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":11,\"fontFamily\":\"Calibri Light\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#2F5496FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":0,\"localeId\":0,\"localeIdFarEast\":0,\"complexScript\":false,\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"characterSpacing\":0,\"scaling\":100}},\"basedOn\":\"Normal\",\"link\":\"Heading 5 Char\",\"next\":\"Normal\"},{\"name\":\"Heading 5 Char\",\"type\":\"Character\",\"characterFormat\":{\"fontFamily\":\"Calibri Light\",\"fontColor\":\"#2F5496FF\",\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":11,\"fontFamily\":\"Calibri Light\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#2F5496FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":0,\"localeId\":0,\"localeIdFarEast\":0,\"complexScript\":false,\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"characterSpacing\":0,\"scaling\":100}},\"basedOn\":\"Default Paragraph Font\"},{\"name\":\"Heading 6\",\"type\":\"Paragraph\",\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":2,\"afterSpacing\":0,\"lineSpacing\":1.0791666507720947,\"lineSpacingType\":\"Multiple\",\"outlineLevel\":\"Level6\",\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":2,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1.0791666507720947,\"lineSpacingType\":\"Multiple\",\"outlineLevel\":\"Level6\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"characterFormat\":{\"fontFamily\":\"Calibri Light\",\"fontColor\":\"#1F3763FF\",\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":11,\"fontFamily\":\"Calibri Light\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#1F3763FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":0,\"localeId\":0,\"localeIdFarEast\":0,\"complexScript\":false,\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"characterSpacing\":0,\"scaling\":100}},\"basedOn\":\"Normal\",\"link\":\"Heading 6 Char\",\"next\":\"Normal\"},{\"name\":\"Heading 6 Char\",\"type\":\"Character\",\"characterFormat\":{\"fontFamily\":\"Calibri Light\",\"fontColor\":\"#1F3763FF\",\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":11,\"fontFamily\":\"Calibri Light\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#1F3763FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":0,\"localeId\":0,\"localeIdFarEast\":0,\"complexScript\":false,\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"characterSpacing\":0,\"scaling\":100}},\"basedOn\":\"Default Paragraph Font\"},{\"name\":\"Heading 7\",\"type\":\"Paragraph\",\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":2,\"afterSpacing\":0,\"lineSpacing\":1.0791666507720947,\"lineSpacingType\":\"Multiple\",\"outlineLevel\":\"Level7\",\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":2,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1.0791666507720947,\"lineSpacingType\":\"Multiple\",\"outlineLevel\":\"Level7\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"characterFormat\":{\"italic\":true,\"fontFamily\":\"Calibri Light\",\"fontColor\":\"#1F3763FF\",\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"inlineFormat\":{\"bold\":false,\"italic\":true,\"fontSize\":11,\"fontFamily\":\"Calibri Light\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#1F3763FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":0,\"localeId\":0,\"localeIdFarEast\":0,\"complexScript\":false,\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"characterSpacing\":0,\"scaling\":100}},\"basedOn\":\"Normal\",\"link\":\"Heading 7 Char\",\"next\":\"Normal\"},{\"name\":\"Heading 7 Char\",\"type\":\"Character\",\"characterFormat\":{\"italic\":true,\"fontFamily\":\"Calibri Light\",\"fontColor\":\"#1F3763FF\",\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"inlineFormat\":{\"bold\":false,\"italic\":true,\"fontSize\":11,\"fontFamily\":\"Calibri Light\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#1F3763FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":0,\"localeId\":0,\"localeIdFarEast\":0,\"complexScript\":false,\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"characterSpacing\":0,\"scaling\":100}},\"basedOn\":\"Default Paragraph Font\"},{\"name\":\"Heading 8\",\"type\":\"Paragraph\",\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":2,\"afterSpacing\":0,\"lineSpacing\":1.0791666507720947,\"lineSpacingType\":\"Multiple\",\"outlineLevel\":\"Level8\",\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":2,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1.0791666507720947,\"lineSpacingType\":\"Multiple\",\"outlineLevel\":\"Level8\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"characterFormat\":{\"fontSize\":10.5,\"fontFamily\":\"Calibri Light\",\"fontColor\":\"#333333FF\",\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":10.5,\"fontFamily\":\"Calibri Light\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#333333FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":0,\"localeId\":0,\"localeIdFarEast\":0,\"complexScript\":false,\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"characterSpacing\":0,\"scaling\":100}},\"basedOn\":\"Normal\",\"link\":\"Heading 8 Char\",\"next\":\"Normal\"},{\"name\":\"Heading 8 Char\",\"type\":\"Character\",\"characterFormat\":{\"fontSize\":10.5,\"fontFamily\":\"Calibri Light\",\"fontColor\":\"#333333FF\",\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":10.5,\"fontFamily\":\"Calibri Light\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#333333FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":0,\"localeId\":0,\"localeIdFarEast\":0,\"complexScript\":false,\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"characterSpacing\":0,\"scaling\":100}},\"basedOn\":\"Default Paragraph Font\"},{\"name\":\"Heading 9\",\"type\":\"Paragraph\",\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":2,\"afterSpacing\":0,\"lineSpacing\":1.0791666507720947,\"lineSpacingType\":\"Multiple\",\"outlineLevel\":\"Level9\",\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":2,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1.0791666507720947,\"lineSpacingType\":\"Multiple\",\"outlineLevel\":\"Level9\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"characterFormat\":{\"italic\":true,\"fontSize\":10.5,\"fontFamily\":\"Calibri Light\",\"fontColor\":\"#333333FF\",\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"inlineFormat\":{\"bold\":false,\"italic\":true,\"fontSize\":10.5,\"fontFamily\":\"Calibri Light\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#333333FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":0,\"localeId\":0,\"localeIdFarEast\":0,\"complexScript\":false,\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"characterSpacing\":0,\"scaling\":100}},\"basedOn\":\"Normal\",\"link\":\"Heading 9 Char\",\"next\":\"Normal\"},{\"name\":\"Heading 9 Char\",\"type\":\"Character\",\"characterFormat\":{\"italic\":true,\"fontSize\":10.5,\"fontFamily\":\"Calibri Light\",\"fontColor\":\"#333333FF\",\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"inlineFormat\":{\"bold\":false,\"italic\":true,\"fontSize\":10.5,\"fontFamily\":\"Calibri Light\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#333333FF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":0,\"localeId\":0,\"localeIdFarEast\":0,\"complexScript\":false,\"fontFamilyAscii\":\"Calibri Light\",\"fontFamilyNonFarEast\":\"Calibri Light\",\"characterSpacing\":0,\"scaling\":100}},\"basedOn\":\"Default Paragraph Font\"},{\"name\":\"Normal Table\",\"type\":\"Table\",\"next\":\"Normal Table\"},{\"name\":\"Line Number\",\"type\":\"Character\",\"characterFormat\":{\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":11,\"fontFamily\":\"Calibri\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#00000000\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":0,\"localeId\":0,\"localeIdFarEast\":0,\"complexScript\":false,\"characterSpacing\":0,\"scaling\":100}},\"basedOn\":\"Default Paragraph Font\"},{\"name\":\"Hyperlink\",\"type\":\"Character\",\"characterFormat\":{\"underline\":\"Single\",\"fontColor\":\"#0000FFFF\",\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":11,\"fontFamily\":\"Calibri\",\"underline\":\"Single\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#0000FFFF\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":0,\"localeId\":0,\"localeIdFarEast\":0,\"complexScript\":false,\"characterSpacing\":0,\"scaling\":100}},\"basedOn\":\"Default Paragraph Font\"},{\"name\":\"Table Simple 1\",\"type\":\"Table\",\"basedOn\":\"Normal Table\",\"next\":\"Table Simple 1\"},{\"name\":\"Header\",\"type\":\"Paragraph\",\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"afterSpacing\":0,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":0,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"outlineLevel\":\"BodyText\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"characterFormat\":{\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":11,\"fontFamily\":\"Calibri\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#00000000\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":0,\"localeId\":0,\"localeIdFarEast\":0,\"complexScript\":false,\"characterSpacing\":0,\"scaling\":100}},\"basedOn\":\"Normal\",\"next\":\"Header\"},{\"name\":\"Footer\",\"type\":\"Paragraph\",\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"afterSpacing\":0,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":0,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"outlineLevel\":\"BodyText\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"characterFormat\":{\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":11,\"fontFamily\":\"Calibri\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#00000000\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":0,\"localeId\":0,\"localeIdFarEast\":0,\"complexScript\":false,\"characterSpacing\":0,\"scaling\":100}},\"basedOn\":\"Normal\",\"next\":\"Footer\"},{\"name\":\"Table Grid\",\"type\":\"Table\",\"basedOn\":\"Normal Table\",\"next\":\"Table Grid\"},{\"name\":\"Normal (Web)\",\"type\":\"Paragraph\",\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"beforeSpacing\":5,\"afterSpacing\":5,\"spaceBeforeAuto\":true,\"spaceAfterAuto\":true,\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":5,\"afterSpacing\":5,\"spaceBeforeAuto\":true,\"spaceAfterAuto\":true,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"outlineLevel\":\"BodyText\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"characterFormat\":{\"fontSize\":12,\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":12,\"fontFamily\":\"Calibri\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#00000000\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":0,\"localeId\":0,\"localeIdFarEast\":0,\"complexScript\":false,\"characterSpacing\":0,\"scaling\":100}},\"basedOn\":\"Normal\",\"next\":\"Normal (Web)\"}],\"lists\":[{\"abstractListId\":0,\"levelOverrides\":[],\"listId\":0,\"nsid\":39812443}],\"abstractLists\":[{\"abstractListId\":0,\"nsid\":39812443,\"levels\":[{\"characterFormat\":{\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":11,\"fontFamily\":\"Calibri\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#00000000\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":0,\"localeId\":0,\"localeIdFarEast\":0,\"complexScript\":false,\"characterSpacing\":0,\"scaling\":100}},\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":36,\"firstLineIndent\":-18,\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":36,\"rightIndent\":0,\"firstLineIndent\":-18,\"textAlignment\":\"Left\",\"beforeSpacing\":0,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"outlineLevel\":\"BodyText\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"isLegalStyleNumbering\":false,\"followCharacter\":\"Space\",\"listLevelPattern\":\"Arabic\",\"numberFormat\":\"%1.\",\"paraStyleName\":\"\",\"restartLevel\":0,\"startAt\":1},{\"characterFormat\":{\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":11,\"fontFamily\":\"Calibri\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#00000000\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":0,\"localeId\":0,\"localeIdFarEast\":0,\"complexScript\":false,\"characterSpacing\":0,\"scaling\":100}},\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":0,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"outlineLevel\":\"BodyText\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"isLegalStyleNumbering\":false,\"followCharacter\":\"Tab\",\"listLevelPattern\":\"Arabic\",\"numberFormat\":\"%2\",\"paraStyleName\":\"\",\"restartLevel\":1,\"startAt\":1},{\"characterFormat\":{\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":11,\"fontFamily\":\"Calibri\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#00000000\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":0,\"localeId\":0,\"localeIdFarEast\":0,\"complexScript\":false,\"characterSpacing\":0,\"scaling\":100}},\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":0,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"outlineLevel\":\"BodyText\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"isLegalStyleNumbering\":false,\"followCharacter\":\"Tab\",\"listLevelPattern\":\"Arabic\",\"numberFormat\":\"%3\",\"paraStyleName\":\"\",\"restartLevel\":2,\"startAt\":1},{\"characterFormat\":{\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":11,\"fontFamily\":\"Calibri\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#00000000\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":0,\"localeId\":0,\"localeIdFarEast\":0,\"complexScript\":false,\"characterSpacing\":0,\"scaling\":100}},\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":0,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"outlineLevel\":\"BodyText\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"isLegalStyleNumbering\":false,\"followCharacter\":\"Tab\",\"listLevelPattern\":\"Arabic\",\"numberFormat\":\"%4\",\"paraStyleName\":\"\",\"restartLevel\":3,\"startAt\":1},{\"characterFormat\":{\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":11,\"fontFamily\":\"Calibri\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#00000000\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":0,\"localeId\":0,\"localeIdFarEast\":0,\"complexScript\":false,\"characterSpacing\":0,\"scaling\":100}},\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":0,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"outlineLevel\":\"BodyText\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"isLegalStyleNumbering\":false,\"followCharacter\":\"Tab\",\"listLevelPattern\":\"Arabic\",\"numberFormat\":\"%5\",\"paraStyleName\":\"\",\"restartLevel\":4,\"startAt\":1},{\"characterFormat\":{\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":11,\"fontFamily\":\"Calibri\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#00000000\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":0,\"localeId\":0,\"localeIdFarEast\":0,\"complexScript\":false,\"characterSpacing\":0,\"scaling\":100}},\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":0,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"outlineLevel\":\"BodyText\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"isLegalStyleNumbering\":false,\"followCharacter\":\"Tab\",\"listLevelPattern\":\"Arabic\",\"numberFormat\":\"%6\",\"paraStyleName\":\"\",\"restartLevel\":5,\"startAt\":1},{\"characterFormat\":{\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":11,\"fontFamily\":\"Calibri\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#00000000\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":0,\"localeId\":0,\"localeIdFarEast\":0,\"complexScript\":false,\"characterSpacing\":0,\"scaling\":100}},\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":0,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"outlineLevel\":\"BodyText\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"isLegalStyleNumbering\":false,\"followCharacter\":\"Tab\",\"listLevelPattern\":\"Arabic\",\"numberFormat\":\"%7\",\"paraStyleName\":\"\",\"restartLevel\":6,\"startAt\":1},{\"characterFormat\":{\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":11,\"fontFamily\":\"Calibri\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#00000000\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":0,\"localeId\":0,\"localeIdFarEast\":0,\"complexScript\":false,\"characterSpacing\":0,\"scaling\":100}},\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":0,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"outlineLevel\":\"BodyText\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"isLegalStyleNumbering\":false,\"followCharacter\":\"Tab\",\"listLevelPattern\":\"Arabic\",\"numberFormat\":\"%8\",\"paraStyleName\":\"\",\"restartLevel\":7,\"startAt\":1},{\"characterFormat\":{\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":11,\"fontFamily\":\"Calibri\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#00000000\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":0,\"localeId\":0,\"localeIdFarEast\":0,\"complexScript\":false,\"characterSpacing\":0,\"scaling\":100}},\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":0,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"outlineLevel\":\"BodyText\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"isLegalStyleNumbering\":false,\"followCharacter\":\"Tab\",\"listLevelPattern\":\"Arabic\",\"numberFormat\":\"%9\",\"paraStyleName\":\"\",\"restartLevel\":8,\"startAt\":1}]}],\"comments\":[],\"revisions\":[],\"customXml\":[],\"images\":{},\"footnotes\":{\"separator\":[{\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"styleName\":\"Normal\",\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":0,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"styleName\":\"Normal\",\"outlineLevel\":\"BodyText\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"characterFormat\":{\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":10,\"fontFamily\":\"Tahoma\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#000000\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":1025,\"localeId\":1033,\"localeIdFarEast\":1033,\"complexScript\":false,\"fontFamilyAscii\":\"Tahoma\",\"fontFamilyNonFarEast\":\"Tahoma\",\"characterSpacing\":0,\"scaling\":100}},\"inlines\":[{\"characterFormat\":{\"inlineFormat\":{\"bold\":false,\"italic\":false,\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":1025,\"localeId\":1033,\"localeIdFarEast\":1033,\"complexScript\":false}},\"text\":\"\\u0003\"}]}],\"continuationSeparator\":[{\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"styleName\":\"Normal\",\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":0,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"styleName\":\"Normal\",\"outlineLevel\":\"BodyText\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"characterFormat\":{\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":10,\"fontFamily\":\"Tahoma\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#000000\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":1025,\"localeId\":1033,\"localeIdFarEast\":1033,\"complexScript\":false,\"fontFamilyAscii\":\"Tahoma\",\"fontFamilyNonFarEast\":\"Tahoma\",\"characterSpacing\":0,\"scaling\":100}},\"inlines\":[{\"characterFormat\":{\"inlineFormat\":{\"bold\":false,\"italic\":false,\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":1025,\"localeId\":1033,\"localeIdFarEast\":1033,\"complexScript\":false}},\"text\":\"\\u0004\"}]}],\"continuationNotice\":[{\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"styleName\":\"Normal\",\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":0,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"styleName\":\"Normal\",\"outlineLevel\":\"BodyText\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"characterFormat\":{\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":10,\"fontFamily\":\"Tahoma\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#000000\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":1025,\"localeId\":1033,\"localeIdFarEast\":1033,\"complexScript\":false,\"fontFamilyAscii\":\"Tahoma\",\"fontFamilyNonFarEast\":\"Tahoma\",\"characterSpacing\":0,\"scaling\":100}},\"inlines\":[]}]},\"endnotes\":{\"separator\":[{\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"styleName\":\"Normal\",\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":0,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"styleName\":\"Normal\",\"outlineLevel\":\"BodyText\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"characterFormat\":{\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":10,\"fontFamily\":\"Tahoma\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#000000\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":1025,\"localeId\":1033,\"localeIdFarEast\":1033,\"complexScript\":false,\"fontFamilyAscii\":\"Tahoma\",\"fontFamilyNonFarEast\":\"Tahoma\",\"characterSpacing\":0,\"scaling\":100}},\"inlines\":[{\"characterFormat\":{\"inlineFormat\":{\"bold\":false,\"italic\":false,\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":1025,\"localeId\":1033,\"localeIdFarEast\":1033,\"complexScript\":false}},\"text\":\"\\u0003\"}]}],\"continuationSeparator\":[{\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"styleName\":\"Normal\",\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":0,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"styleName\":\"Normal\",\"outlineLevel\":\"BodyText\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"characterFormat\":{\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":10,\"fontFamily\":\"Tahoma\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#000000\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":1025,\"localeId\":1033,\"localeIdFarEast\":1033,\"complexScript\":false,\"fontFamilyAscii\":\"Tahoma\",\"fontFamilyNonFarEast\":\"Tahoma\",\"characterSpacing\":0,\"scaling\":100}},\"inlines\":[{\"characterFormat\":{\"inlineFormat\":{\"bold\":false,\"italic\":false,\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":1025,\"localeId\":1033,\"localeIdFarEast\":1033,\"complexScript\":false}},\"text\":\"\\u0004\"}]}],\"continuationNotice\":[{\"paragraphFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"styleName\":\"Normal\",\"listFormat\":{},\"inlineFormat\":{\"borders\":{\"top\":{},\"left\":{},\"right\":{},\"bottom\":{},\"horizontal\":{},\"vertical\":{}},\"leftIndent\":0,\"rightIndent\":0,\"firstLineIndent\":0,\"textAlignment\":\"Left\",\"beforeSpacing\":0,\"afterSpacing\":0,\"spaceBeforeAuto\":false,\"spaceAfterAuto\":false,\"lineSpacing\":1,\"lineSpacingType\":\"Multiple\",\"styleName\":\"Normal\",\"outlineLevel\":\"BodyText\",\"bidi\":false,\"keepLinesTogether\":false,\"keepWithNext\":false,\"contextualSpacing\":false,\"widowControl\":true,\"listFormat\":{}}},\"characterFormat\":{\"inlineFormat\":{\"bold\":false,\"italic\":false,\"fontSize\":10,\"fontFamily\":\"Tahoma\",\"underline\":\"None\",\"fontHintType\":\"Default\",\"strikethrough\":\"None\",\"baselineAlignment\":\"Normal\",\"highlightColor\":\"NoColor\",\"fontColor\":\"#000000\",\"bidi\":false,\"bdo\":\"None\",\"boldBidi\":false,\"italicBidi\":false,\"fontSizeBidi\":11,\"fontFamilyBidi\":\"Calibri\",\"allCaps\":false,\"localeIdBidi\":1025,\"localeId\":1033,\"localeIdFarEast\":1033,\"complexScript\":false,\"fontFamilyAscii\":\"Tahoma\",\"fontFamilyNonFarEast\":\"Tahoma\",\"characterSpacing\":0,\"scaling\":100}},\"inlines\":[]}]}}"
+{
+"optimizeSfdt": false,
+"allowHyphensInBookmarkNames": false,
+"sections": [
+{
+"sectionFormat": {
+"pageWidth": 612,
+"pageHeight": 792,
+"leftMargin": 50.400001525878906,
+"rightMargin": 57.599998474121094,
+"topMargin": 15.100000381469727,
+"bottomMargin": 56.650001525878906,
+"headerDistance": 35.400001525878906,
+"footerDistance": 35.400001525878906,
+"differentFirstPage": false,
+"differentOddAndEvenPages": false,
+"bidi": false,
+"breakCode": "NewPage",
+"endnoteNumberFormat": "LowerCaseRoman",
+"footNoteNumberFormat": "Arabic",
+"restartIndexForFootnotes": "DoNotRestart",
+"restartIndexForEndnotes": "DoNotRestart",
+"initialFootNoteNumber": 1,
+"initialEndNoteNumber": 1,
+"pageNumberStyle": "Arabic",
+"numberOfColumns": 1,
+"equalWidth": true,
+"lineBetweenColumns": false,
+"columns": []
+},
+"blocks": [
+{
+"paragraphFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"spaceBeforeAuto": false,
+"spaceAfterAuto": false,
+"lineSpacing": 1,
+"lineSpacingType": "Multiple",
+"styleName": "Normal",
+"listFormat": {},
+"inlineFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"leftIndent": 0,
+"rightIndent": 0,
+"firstLineIndent": 0,
+"textAlignment": "Left",
+"beforeSpacing": 0,
+"afterSpacing": 0,
+"spaceBeforeAuto": false,
+"spaceAfterAuto": false,
+"lineSpacing": 1,
+"lineSpacingType": "Multiple",
+"styleName": "Normal",
+"outlineLevel": "BodyText",
+"bidi": false,
+"keepLinesTogether": false,
+"keepWithNext": false,
+"contextualSpacing": false,
+"widowControl": true,
+"listFormat": {}
+}
+},
+"characterFormat": {
+"fontColor": "#000000FF",
+"inlineFormat": {
+"bold": false,
+"italic": false,
+"fontSize": 10,
+"fontFamily": "Tahoma",
+"underline": "None",
+"fontHintType": "Default",
+"strikethrough": "None",
+"baselineAlignment": "Normal",
+"highlightColor": "NoColor",
+"fontColor": "#000000FF",
+"bidi": false,
+"bdo": "None",
+"boldBidi": false,
+"italicBidi": false,
+"fontSizeBidi": 11,
+"fontFamilyBidi": "Calibri",
+"allCaps": false,
+"localeIdBidi": 1025,
+"localeId": 1033,
+"localeIdFarEast": 1033,
+"complexScript": false,
+"fontFamilyAscii": "Tahoma",
+"fontFamilyNonFarEast": "Tahoma",
+"characterSpacing": 0,
+"scaling": 100
+}
+},
+"inlines": []
+},
+{
+"paragraphFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"spaceBeforeAuto": false,
+"spaceAfterAuto": false,
+"lineSpacing": 1,
+"lineSpacingType": "Multiple",
+"styleName": "Normal",
+"listFormat": {},
+"inlineFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"leftIndent": 0,
+"rightIndent": 0,
+"firstLineIndent": 0,
+"textAlignment": "Left",
+"beforeSpacing": 0,
+"afterSpacing": 0,
+"spaceBeforeAuto": false,
+"spaceAfterAuto": false,
+"lineSpacing": 1,
+"lineSpacingType": "Multiple",
+"styleName": "Normal",
+"outlineLevel": "BodyText",
+"bidi": false,
+"keepLinesTogether": false,
+"keepWithNext": false,
+"contextualSpacing": false,
+"widowControl": true,
+"listFormat": {}
+}
+},
+"characterFormat": {
+"fontColor": "#000000FF",
+"inlineFormat": {
+"bold": false,
+"italic": false,
+"fontSize": 10,
+"fontFamily": "Tahoma",
+"underline": "None",
+"fontHintType": "Default",
+"strikethrough": "None",
+"baselineAlignment": "Normal",
+"highlightColor": "NoColor",
+"fontColor": "#000000FF",
+"bidi": false,
+"bdo": "None",
+"boldBidi": false,
+"italicBidi": false,
+"fontSizeBidi": 11,
+"fontFamilyBidi": "Calibri",
+"allCaps": false,
+"localeIdBidi": 1025,
+"localeId": 1033,
+"localeIdFarEast": 1033,
+"complexScript": false,
+"fontFamilyAscii": "Tahoma",
+"fontFamilyNonFarEast": "Tahoma",
+"characterSpacing": 0,
+"scaling": 100
+}
+},
+"inlines": [
+{
+"characterFormat": {
+"fontColor": "#000000FF",
+"inlineFormat": {
+"bold": false,
+"italic": false,
+"underline": "None",
+"fontHintType": "Default",
+"strikethrough": "None",
+"baselineAlignment": "Normal",
+"highlightColor": "NoColor",
+"fontColor": "#000000FF",
+"bidi": false,
+"bdo": "None",
+"boldBidi": false,
+"italicBidi": false,
+"fontSizeBidi": 11,
+"fontFamilyBidi": "Calibri",
+"allCaps": false,
+"localeIdBidi": 1025,
+"localeId": 1033,
+"localeIdFarEast": 1033,
+"complexScript": false
+}
+},
+"text": "TenantID: xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxxx0 "
+}
+]
+},
+{
+"paragraphFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"spaceBeforeAuto": false,
+"spaceAfterAuto": false,
+"lineSpacing": 1,
+"lineSpacingType": "Multiple",
+"styleName": "Normal",
+"listFormat": {},
+"inlineFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"leftIndent": 0,
+"rightIndent": 0,
+"firstLineIndent": 0,
+"textAlignment": "Left",
+"beforeSpacing": 0,
+"afterSpacing": 0,
+"spaceBeforeAuto": false,
+"spaceAfterAuto": false,
+"lineSpacing": 1,
+"lineSpacingType": "Multiple",
+"styleName": "Normal",
+"outlineLevel": "BodyText",
+"bidi": false,
+"keepLinesTogether": false,
+"keepWithNext": false,
+"contextualSpacing": false,
+"widowControl": true,
+"listFormat": {}
+}
+},
+"characterFormat": {
+"fontColor": "#000000FF",
+"inlineFormat": {
+"bold": false,
+"italic": false,
+"fontSize": 10,
+"fontFamily": "Tahoma",
+"underline": "None",
+"fontHintType": "Default",
+"strikethrough": "None",
+"baselineAlignment": "Normal",
+"highlightColor": "NoColor",
+"fontColor": "#000000FF",
+"bidi": false,
+"bdo": "None",
+"boldBidi": false,
+"italicBidi": false,
+"fontSizeBidi": 11,
+"fontFamilyBidi": "Calibri",
+"allCaps": false,
+"localeIdBidi": 1025,
+"localeId": 1033,
+"localeIdFarEast": 1033,
+"complexScript": false,
+"fontFamilyAscii": "Tahoma",
+"fontFamilyNonFarEast": "Tahoma",
+"characterSpacing": 0,
+"scaling": 100
+}
+},
+"inlines": []
+},
+{
+"paragraphFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"spaceBeforeAuto": false,
+"spaceAfterAuto": false,
+"lineSpacing": 1,
+"lineSpacingType": "Multiple",
+"styleName": "Normal",
+"listFormat": {},
+"inlineFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"leftIndent": 0,
+"rightIndent": 0,
+"firstLineIndent": 0,
+"textAlignment": "Left",
+"beforeSpacing": 0,
+"afterSpacing": 0,
+"spaceBeforeAuto": false,
+"spaceAfterAuto": false,
+"lineSpacing": 1,
+"lineSpacingType": "Multiple",
+"styleName": "Normal",
+"outlineLevel": "BodyText",
+"bidi": false,
+"keepLinesTogether": false,
+"keepWithNext": false,
+"contextualSpacing": false,
+"widowControl": true,
+"listFormat": {}
+}
+},
+"characterFormat": {
+"fontColor": "#000000FF",
+"inlineFormat": {
+"bold": false,
+"italic": false,
+"fontSize": 10,
+"fontFamily": "Tahoma",
+"underline": "None",
+"fontHintType": "Default",
+"strikethrough": "None",
+"baselineAlignment": "Normal",
+"highlightColor": "NoColor",
+"fontColor": "#000000FF",
+"bidi": false,
+"bdo": "None",
+"boldBidi": false,
+"italicBidi": false,
+"fontSizeBidi": 11,
+"fontFamilyBidi": "Calibri",
+"allCaps": false,
+"localeIdBidi": 1025,
+"localeId": 1033,
+"localeIdFarEast": 1033,
+"complexScript": false,
+"fontFamilyAscii": "Tahoma",
+"fontFamilyNonFarEast": "Tahoma",
+"characterSpacing": 0,
+"scaling": 100
+}
+},
+"inlines": [
+{
+"characterFormat": {
+"fontColor": "#000000FF",
+"inlineFormat": {
+"bold": false,
+"italic": false,
+"underline": "None",
+"fontHintType": "Default",
+"strikethrough": "None",
+"baselineAlignment": "Normal",
+"highlightColor": "NoColor",
+"fontColor": "#000000FF",
+"bidi": false,
+"bdo": "None",
+"boldBidi": false,
+"italicBidi": false,
+"fontSizeBidi": 11,
+"fontFamilyBidi": "Calibri",
+"allCaps": false,
+"localeIdBidi": 1025,
+"localeId": 1033,
+"localeIdFarEast": 1033,
+"complexScript": false
+}
+},
+"text": "ClientID: xxxxxxxx-xxxx-xxxx-"
+},
+{
+"characterFormat": {
+"fontColor": "#000000FF",
+"inlineFormat": {
+"bold": false,
+"italic": false,
+"underline": "None",
+"fontHintType": "Default",
+"strikethrough": "None",
+"baselineAlignment": "Normal",
+"highlightColor": "NoColor",
+"fontColor": "#000000FF",
+"bidi": false,
+"bdo": "None",
+"boldBidi": false,
+"italicBidi": false,
+"fontSizeBidi": 11,
+"fontFamilyBidi": "Calibri",
+"allCaps": false,
+"localeIdBidi": 1025,
+"localeId": 1033,
+"localeIdFarEast": 1033,
+"complexScript": false
+}
+},
+"text": " xxxx-xxxxxxxxxxxx8 "
+}
+]
+},
+{
+"paragraphFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"spaceBeforeAuto": false,
+"spaceAfterAuto": false,
+"lineSpacing": 1,
+"lineSpacingType": "Multiple",
+"styleName": "Normal",
+"listFormat": {},
+"inlineFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"leftIndent": 0,
+"rightIndent": 0,
+"firstLineIndent": 0,
+"textAlignment": "Left",
+"beforeSpacing": 0,
+"afterSpacing": 0,
+"spaceBeforeAuto": false,
+"spaceAfterAuto": false,
+"lineSpacing": 1,
+"lineSpacingType": "Multiple",
+"styleName": "Normal",
+"outlineLevel": "BodyText",
+"bidi": false,
+"keepLinesTogether": false,
+"keepWithNext": false,
+"contextualSpacing": false,
+"widowControl": true,
+"listFormat": {}
+}
+},
+"characterFormat": {
+"fontColor": "#000000FF",
+"inlineFormat": {
+"bold": false,
+"italic": false,
+"fontSize": 10,
+"fontFamily": "Tahoma",
+"underline": "None",
+"fontHintType": "Default",
+"strikethrough": "None",
+"baselineAlignment": "Normal",
+"highlightColor": "NoColor",
+"fontColor": "#000000FF",
+"bidi": false,
+"bdo": "None",
+"boldBidi": false,
+"italicBidi": false,
+"fontSizeBidi": 11,
+"fontFamilyBidi": "Calibri",
+"allCaps": false,
+"localeIdBidi": 1025,
+"localeId": 1033,
+"localeIdFarEast": 1033,
+"complexScript": false,
+"fontFamilyAscii": "Tahoma",
+"fontFamilyNonFarEast": "Tahoma",
+"characterSpacing": 0,
+"scaling": 100
+}
+},
+"inlines": []
+},
+{
+"paragraphFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"spaceBeforeAuto": false,
+"spaceAfterAuto": false,
+"lineSpacing": 1,
+"lineSpacingType": "Multiple",
+"styleName": "Normal",
+"listFormat": {},
+"inlineFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"leftIndent": 0,
+"rightIndent": 0,
+"firstLineIndent": 0,
+"textAlignment": "Left",
+"beforeSpacing": 0,
+"afterSpacing": 0,
+"spaceBeforeAuto": false,
+"spaceAfterAuto": false,
+"lineSpacing": 1,
+"lineSpacingType": "Multiple",
+"styleName": "Normal",
+"outlineLevel": "BodyText",
+"bidi": false,
+"keepLinesTogether": false,
+"keepWithNext": false,
+"contextualSpacing": false,
+"widowControl": true,
+"listFormat": {}
+}
+},
+"characterFormat": {
+"fontColor": "#000000FF",
+"inlineFormat": {
+"bold": false,
+"italic": false,
+"fontSize": 10,
+"fontFamily": "Tahoma",
+"underline": "None",
+"fontHintType": "Default",
+"strikethrough": "None",
+"baselineAlignment": "Normal",
+"highlightColor": "NoColor",
+"fontColor": "#000000FF",
+"bidi": false,
+"bdo": "None",
+"boldBidi": false,
+"italicBidi": false,
+"fontSizeBidi": 11,
+"fontFamilyBidi": "Calibri",
+"allCaps": false,
+"localeIdBidi": 1025,
+"localeId": 1033,
+"localeIdFarEast": 1033,
+"complexScript": false,
+"fontFamilyAscii": "Tahoma",
+"fontFamilyNonFarEast": "Tahoma",
+"characterSpacing": 0,
+"scaling": 100
+}
+},
+"inlines": [
+{
+"characterFormat": {
+"fontColor": "#000000FF",
+"inlineFormat": {
+"bold": false,
+"italic": false,
+"underline": "None",
+"fontHintType": "Default",
+"strikethrough": "None",
+"baselineAlignment": "Normal",
+"highlightColor": "NoColor",
+"fontColor": "#000000FF",
+"bidi": false,
+"bdo": "None",
+"boldBidi": false,
+"italicBidi": false,
+"fontSizeBidi": 11,
+"fontFamilyBidi": "Calibri",
+"allCaps": false,
+"localeIdBidi": 1025,
+"localeId": 1033,
+"localeIdFarEast": 1033,
+"complexScript": false
+}
+},
+"text": "ClientKeyID: xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx2"
+}
+]
+},
+{
+"paragraphFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"spaceBeforeAuto": false,
+"spaceAfterAuto": false,
+"lineSpacing": 1,
+"lineSpacingType": "Multiple",
+"styleName": "Normal",
+"listFormat": {},
+"inlineFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"leftIndent": 0,
+"rightIndent": 0,
+"firstLineIndent": 0,
+"textAlignment": "Left",
+"beforeSpacing": 0,
+"afterSpacing": 0,
+"spaceBeforeAuto": false,
+"spaceAfterAuto": false,
+"lineSpacing": 1,
+"lineSpacingType": "Multiple",
+"styleName": "Normal",
+"outlineLevel": "BodyText",
+"bidi": false,
+"keepLinesTogether": false,
+"keepWithNext": false,
+"contextualSpacing": false,
+"widowControl": true,
+"listFormat": {}
+}
+},
+"characterFormat": {
+"fontColor": "#000000FF",
+"inlineFormat": {
+"bold": false,
+"italic": false,
+"fontSize": 10,
+"fontFamily": "Tahoma",
+"underline": "None",
+"fontHintType": "Default",
+"strikethrough": "None",
+"baselineAlignment": "Normal",
+"highlightColor": "NoColor",
+"fontColor": "#000000FF",
+"bidi": false,
+"bdo": "None",
+"boldBidi": false,
+"italicBidi": false,
+"fontSizeBidi": 11,
+"fontFamilyBidi": "Calibri",
+"allCaps": false,
+"localeIdBidi": 1025,
+"localeId": 1033,
+"localeIdFarEast": 1033,
+"complexScript": false,
+"fontFamilyAscii": "Tahoma",
+"fontFamilyNonFarEast": "Tahoma",
+"characterSpacing": 0,
+"scaling": 100
+}
+},
+"inlines": [
+{
+"characterFormat": {
+"fontColor": "#000000FF",
+"bidi": false,
+"inlineFormat": {
+"bold": false,
+"italic": false,
+"underline": "None",
+"fontHintType": "Default",
+"strikethrough": "None",
+"baselineAlignment": "Normal",
+"highlightColor": "NoColor",
+"fontColor": "#000000FF",
+"bidi": false,
+"bdo": "None",
+"boldBidi": false,
+"italicBidi": false,
+"fontSizeBidi": 11,
+"fontFamilyBidi": "Calibri",
+"allCaps": false,
+"localeIdBidi": 1025,
+"localeId": 1033,
+"localeIdFarEast": 1033,
+"complexScript": false
+}
+},
+"text": " "
+}
+]
+},
+{
+"paragraphFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"spaceBeforeAuto": false,
+"spaceAfterAuto": false,
+"lineSpacing": 1,
+"lineSpacingType": "Multiple",
+"styleName": "Normal",
+"listFormat": {},
+"inlineFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"leftIndent": 0,
+"rightIndent": 0,
+"firstLineIndent": 0,
+"textAlignment": "Left",
+"beforeSpacing": 0,
+"afterSpacing": 0,
+"spaceBeforeAuto": false,
+"spaceAfterAuto": false,
+"lineSpacing": 1,
+"lineSpacingType": "Multiple",
+"styleName": "Normal",
+"outlineLevel": "BodyText",
+"bidi": false,
+"keepLinesTogether": false,
+"keepWithNext": false,
+"contextualSpacing": false,
+"widowControl": true,
+"listFormat": {}
+}
+},
+"characterFormat": {
+"fontColor": "#000000FF",
+"inlineFormat": {
+"bold": false,
+"italic": false,
+"fontSize": 10,
+"fontFamily": "Tahoma",
+"underline": "None",
+"fontHintType": "Default",
+"strikethrough": "None",
+"baselineAlignment": "Normal",
+"highlightColor": "NoColor",
+"fontColor": "#000000FF",
+"bidi": false,
+"bdo": "None",
+"boldBidi": false,
+"italicBidi": false,
+"fontSizeBidi": 11,
+"fontFamilyBidi": "Calibri",
+"allCaps": false,
+"localeIdBidi": 1025,
+"localeId": 1033,
+"localeIdFarEast": 1033,
+"complexScript": false,
+"fontFamilyAscii": "Tahoma",
+"fontFamilyNonFarEast": "Tahoma",
+"characterSpacing": 0,
+"scaling": 100
+}
+},
+"inlines": [
+{
+"characterFormat": {
+"fontColor": "#000000FF",
+"inlineFormat": {
+"bold": false,
+"italic": false,
+"underline": "None",
+"fontHintType": "Default",
+"strikethrough": "None",
+"baselineAlignment": "Normal",
+"highlightColor": "NoColor",
+"fontColor": "#000000FF",
+"bidi": false,
+"bdo": "None",
+"boldBidi": false,
+"italicBidi": false,
+"fontSizeBidi": 11,
+"fontFamilyBidi": "Calibri",
+"allCaps": false,
+"localeIdBidi": 1025,
+"localeId": 1033,
+"localeIdFarEast": 1033,
+"complexScript": false
+}
+},
+"text": "ClientKeyDescription: Cxxxxxxxxxxxx9 "
+}
+]
+},
+{
+"paragraphFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"spaceBeforeAuto": false,
+"spaceAfterAuto": false,
+"lineSpacing": 1,
+"lineSpacingType": "Multiple",
+"styleName": "Normal",
+"listFormat": {},
+"inlineFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"leftIndent": 0,
+"rightIndent": 0,
+"firstLineIndent": 0,
+"textAlignment": "Left",
+"beforeSpacing": 0,
+"afterSpacing": 0,
+"spaceBeforeAuto": false,
+"spaceAfterAuto": false,
+"lineSpacing": 1,
+"lineSpacingType": "Multiple",
+"styleName": "Normal",
+"outlineLevel": "BodyText",
+"bidi": false,
+"keepLinesTogether": false,
+"keepWithNext": false,
+"contextualSpacing": false,
+"widowControl": true,
+"listFormat": {}
+}
+},
+"characterFormat": {
+"fontColor": "#000000FF",
+"inlineFormat": {
+"bold": false,
+"italic": false,
+"fontSize": 10,
+"fontFamily": "Tahoma",
+"underline": "None",
+"fontHintType": "Default",
+"strikethrough": "None",
+"baselineAlignment": "Normal",
+"highlightColor": "NoColor",
+"fontColor": "#000000FF",
+"bidi": false,
+"bdo": "None",
+"boldBidi": false,
+"italicBidi": false,
+"fontSizeBidi": 11,
+"fontFamilyBidi": "Calibri",
+"allCaps": false,
+"localeIdBidi": 1025,
+"localeId": 1033,
+"localeIdFarEast": 1033,
+"complexScript": false,
+"fontFamilyAscii": "Tahoma",
+"fontFamilyNonFarEast": "Tahoma",
+"characterSpacing": 0,
+"scaling": 100
+}
+},
+"inlines": [
+{
+"characterFormat": {
+"fontColor": "#000000FF",
+"bidi": false,
+"inlineFormat": {
+"bold": false,
+"italic": false,
+"underline": "None",
+"fontHintType": "Default",
+"strikethrough": "None",
+"baselineAlignment": "Normal",
+"highlightColor": "NoColor",
+"fontColor": "#000000FF",
+"bidi": false,
+"bdo": "None",
+"boldBidi": false,
+"italicBidi": false,
+"fontSizeBidi": 11,
+"fontFamilyBidi": "Calibri",
+"allCaps": false,
+"localeIdBidi": 1025,
+"localeId": 1033,
+"localeIdFarEast": 1033,
+"complexScript": false
+}
+},
+"text": " "
+}
+]
+},
+{
+"paragraphFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"spaceBeforeAuto": false,
+"spaceAfterAuto": false,
+"lineSpacing": 1,
+"lineSpacingType": "Multiple",
+"styleName": "Normal",
+"listFormat": {
+"listId": 0,
+"listLevelNumber": 0,
+"nsid": 39812443
+},
+"inlineFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"leftIndent": 36,
+"rightIndent": 0,
+"firstLineIndent": -18,
+"textAlignment": "Left",
+"beforeSpacing": 0,
+"afterSpacing": 0,
+"spaceBeforeAuto": false,
+"spaceAfterAuto": false,
+"lineSpacing": 1,
+"lineSpacingType": "Multiple",
+"styleName": "Normal",
+"outlineLevel": "BodyText",
+"bidi": false,
+"keepLinesTogether": false,
+"keepWithNext": false,
+"contextualSpacing": false,
+"widowControl": true,
+"listFormat": {
+"listId": 0,
+"listLevelNumber": 0,
+"nsid": 39812443
+}
+}
+},
+"characterFormat": {
+"fontSize": 12,
+"fontColor": "#000000FF",
+"bidi": false,
+"inlineFormat": {
+"bold": false,
+"italic": false,
+"fontSize": 12,
+"fontFamily": "Tahoma",
+"underline": "None",
+"fontHintType": "Default",
+"strikethrough": "None",
+"baselineAlignment": "Normal",
+"highlightColor": "NoColor",
+"fontColor": "#000000FF",
+"bidi": false,
+"bdo": "None",
+"boldBidi": false,
+"italicBidi": false,
+"fontSizeBidi": 11,
+"fontFamilyBidi": "Calibri",
+"allCaps": false,
+"localeIdBidi": 1025,
+"localeId": 1033,
+"localeIdFarEast": 1033,
+"complexScript": false,
+"fontFamilyAscii": "Tahoma",
+"fontFamilyNonFarEast": "Tahoma",
+"characterSpacing": 0,
+"scaling": 100
+}
+},
+"inlines": [
+{
+"characterFormat": {
+"fontSize": 12,
+"fontColor": "#000000FF",
+"bidi": false,
+"inlineFormat": {
+"bold": false,
+"italic": false,
+"fontSize": 12,
+"underline": "None",
+"fontHintType": "Default",
+"strikethrough": "None",
+"baselineAlignment": "Normal",
+"highlightColor": "NoColor",
+"fontColor": "#000000FF",
+"bidi": false,
+"bdo": "None",
+"boldBidi": false,
+"italicBidi": false,
+"fontSizeBidi": 11,
+"fontFamilyBidi": "Calibri",
+"allCaps": false,
+"localeIdBidi": 1025,
+"localeId": 1033,
+"localeIdFarEast": 1033,
+"complexScript": false
+}
+},
+"text": "asdf"
+}
+]
+}
+],
+"headersFooters": {}
+}
+],
+"characterFormat": {
+"bold": false,
+"italic": false,
+"fontSize": 10,
+"fontFamily": "Tahoma",
+"underline": "None",
+"strikethrough": "None",
+"baselineAlignment": "Normal",
+"fontColor": "#000000",
+"allCaps": false,
+"localeIdBidi": 1025,
+"localeId": 1033,
+"localeIdFarEast": 1033,
+"hidden": false,
+"fontFamilyAscii": "Tahoma",
+"fontFamilyNonFarEast": "Tahoma",
+"inlineFormat": {
+"bold": false,
+"italic": false,
+"fontSize": 10,
+"fontFamily": "Tahoma",
+"underline": "None",
+"fontHintType": "Default",
+"strikethrough": "None",
+"baselineAlignment": "Normal",
+"highlightColor": "NoColor",
+"fontColor": "#000000",
+"bidi": false,
+"bdo": "None",
+"boldBidi": false,
+"italicBidi": false,
+"fontSizeBidi": 11,
+"fontFamilyBidi": "Calibri",
+"allCaps": false,
+"localeIdBidi": 1025,
+"localeId": 1033,
+"localeIdFarEast": 1033,
+"complexScript": false,
+"hidden": false,
+"fontFamilyAscii": "Tahoma",
+"fontFamilyNonFarEast": "Tahoma",
+"characterSpacing": 0,
+"scaling": 100
+}
+},
+"paragraphFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"leftIndent": 0,
+"rightIndent": 0,
+"firstLineIndent": 0,
+"textAlignment": "Left",
+"beforeSpacing": 0,
+"afterSpacing": 0,
+"spaceBeforeAuto": false,
+"spaceAfterAuto": false,
+"lineSpacing": 1,
+"lineSpacingType": "Multiple",
+"keepLinesTogether": false,
+"keepWithNext": false,
+"contextualSpacing": false,
+"widowControl": true,
+"listFormat": {},
+"inlineFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"leftIndent": 0,
+"rightIndent": 0,
+"firstLineIndent": 0,
+"textAlignment": "Left",
+"beforeSpacing": 0,
+"afterSpacing": 0,
+"spaceBeforeAuto": false,
+"spaceAfterAuto": false,
+"lineSpacing": 1,
+"lineSpacingType": "Multiple",
+"outlineLevel": "BodyText",
+"bidi": false,
+"keepLinesTogether": false,
+"keepWithNext": false,
+"contextualSpacing": false,
+"widowControl": true,
+"listFormat": {}
+}
+},
+"fontSubstitutionTable": {},
+"themeFontLanguages": {
+"inlineFormat": {
+"bold": false,
+"italic": false,
+"fontSize": 10,
+"fontFamily": "Tahoma",
+"underline": "None",
+"fontHintType": "Default",
+"strikethrough": "None",
+"baselineAlignment": "Normal",
+"highlightColor": "NoColor",
+"fontColor": "#000000",
+"bidi": false,
+"bdo": "None",
+"boldBidi": false,
+"italicBidi": false,
+"fontSizeBidi": 11,
+"fontFamilyBidi": "Calibri",
+"allCaps": false,
+"localeIdBidi": 1025,
+"localeId": 1033,
+"localeIdFarEast": 1033,
+"complexScript": false,
+"fontFamilyAscii": "Tahoma",
+"fontFamilyNonFarEast": "Tahoma",
+"characterSpacing": 0,
+"scaling": 100
+}
+},
+"defaultTabWidth": 36,
+"trackChanges": false,
+"enforcement": false,
+"hashValue": "",
+"saltValue": "",
+"formatting": false,
+"protectionType": "NoProtection",
+"dontUseHTMLParagraphAutoSpacing": false,
+"formFieldShading": true,
+"compatibilityMode": "Word2007",
+"allowSpaceOfSameStyleInTable": false,
+"themes": {
+"fontScheme": {
+"fontSchemeName": "Office",
+"majorFontScheme": {
+"fontSchemeList": [
+{
+"name": "latin",
+"typeface": "Calibri Light"
+},
+{
+"name": "ea"
+},
+{
+"name": "cs"
+}
+],
+"fontTypeface": {}
+},
+"minorFontScheme": {
+"fontSchemeList": [
+{
+"name": "latin",
+"typeface": "Calibri"
+},
+{
+"name": "ea"
+},
+{
+"name": "cs"
+}
+],
+"fontTypeface": {}
+}
+}
+},
+"background": {
+"color": "#FFFFFFFF"
+},
+"styles": [
+{
+"name": "Normal",
+"type": "Paragraph",
+"paragraphFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"listFormat": {},
+"inlineFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"leftIndent": 0,
+"rightIndent": 0,
+"firstLineIndent": 0,
+"textAlignment": "Left",
+"beforeSpacing": 0,
+"afterSpacing": 0,
+"spaceBeforeAuto": false,
+"spaceAfterAuto": false,
+"lineSpacing": 1,
+"lineSpacingType": "Multiple",
+"outlineLevel": "BodyText",
+"bidi": false,
+"keepLinesTogether": false,
+"keepWithNext": false,
+"contextualSpacing": false,
+"widowControl": true,
+"listFormat": {}
+}
+},
+"characterFormat": {
+"inlineFormat": {
+"bold": false,
+"italic": false,
+"fontSize": 11,
+"fontFamily": "Calibri",
+"underline": "None",
+"fontHintType": "Default",
+"strikethrough": "None",
+"baselineAlignment": "Normal",
+"highlightColor": "NoColor",
+"fontColor": "#00000000",
+"bidi": false,
+"bdo": "None",
+"boldBidi": false,
+"italicBidi": false,
+"fontSizeBidi": 11,
+"fontFamilyBidi": "Calibri",
+"allCaps": false,
+"localeIdBidi": 0,
+"localeId": 0,
+"localeIdFarEast": 0,
+"complexScript": false,
+"characterSpacing": 0,
+"scaling": 100
+}
+},
+"next": "Normal"
+},
+{
+"name": "Heading 1",
+"type": "Paragraph",
+"paragraphFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"leftIndent": 0,
+"rightIndent": 0,
+"firstLineIndent": 0,
+"textAlignment": "Left",
+"beforeSpacing": 12,
+"afterSpacing": 0,
+"lineSpacing": 1.0791666507720947,
+"lineSpacingType": "Multiple",
+"outlineLevel": "Level1",
+"listFormat": {},
+"inlineFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"leftIndent": 0,
+"rightIndent": 0,
+"firstLineIndent": 0,
+"textAlignment": "Left",
+"beforeSpacing": 12,
+"afterSpacing": 0,
+"spaceBeforeAuto": false,
+"spaceAfterAuto": false,
+"lineSpacing": 1.0791666507720947,
+"lineSpacingType": "Multiple",
+"outlineLevel": "Level1",
+"bidi": false,
+"keepLinesTogether": false,
+"keepWithNext": false,
+"contextualSpacing": false,
+"widowControl": true,
+"listFormat": {}
+}
+},
+"characterFormat": {
+"fontSize": 16,
+"fontFamily": "Calibri Light",
+"fontColor": "#2F5496FF",
+"fontFamilyAscii": "Calibri Light",
+"fontFamilyNonFarEast": "Calibri Light",
+"inlineFormat": {
+"bold": false,
+"italic": false,
+"fontSize": 16,
+"fontFamily": "Calibri Light",
+"underline": "None",
+"fontHintType": "Default",
+"strikethrough": "None",
+"baselineAlignment": "Normal",
+"highlightColor": "NoColor",
+"fontColor": "#2F5496FF",
+"bidi": false,
+"bdo": "None",
+"boldBidi": false,
+"italicBidi": false,
+"fontSizeBidi": 11,
+"fontFamilyBidi": "Calibri",
+"allCaps": false,
+"localeIdBidi": 0,
+"localeId": 0,
+"localeIdFarEast": 0,
+"complexScript": false,
+"fontFamilyAscii": "Calibri Light",
+"fontFamilyNonFarEast": "Calibri Light",
+"characterSpacing": 0,
+"scaling": 100
+}
+},
+"basedOn": "Normal",
+"link": "Heading 1 Char",
+"next": "Normal"
+},
+{
+"name": "Heading 1 Char",
+"type": "Character",
+"characterFormat": {
+"fontSize": 16,
+"fontFamily": "Calibri Light",
+"fontColor": "#2F5496FF",
+"fontFamilyAscii": "Calibri Light",
+"fontFamilyNonFarEast": "Calibri Light",
+"inlineFormat": {
+"bold": false,
+"italic": false,
+"fontSize": 16,
+"fontFamily": "Calibri Light",
+"underline": "None",
+"fontHintType": "Default",
+"strikethrough": "None",
+"baselineAlignment": "Normal",
+"highlightColor": "NoColor",
+"fontColor": "#2F5496FF",
+"bidi": false,
+"bdo": "None",
+"boldBidi": false,
+"italicBidi": false,
+"fontSizeBidi": 11,
+"fontFamilyBidi": "Calibri",
+"allCaps": false,
+"localeIdBidi": 0,
+"localeId": 0,
+"localeIdFarEast": 0,
+"complexScript": false,
+"fontFamilyAscii": "Calibri Light",
+"fontFamilyNonFarEast": "Calibri Light",
+"characterSpacing": 0,
+"scaling": 100
+}
+},
+"basedOn": "Default Paragraph Font"
+},
+{
+"name": "Default Paragraph Font",
+"type": "Character",
+"characterFormat": {
+"strikethrough": "None",
+"baselineAlignment": "Normal",
+"allCaps": false,
+"inlineFormat": {
+"bold": false,
+"italic": false,
+"fontSize": 11,
+"fontFamily": "Calibri",
+"underline": "None",
+"fontHintType": "Default",
+"strikethrough": "None",
+"baselineAlignment": "Normal",
+"highlightColor": "NoColor",
+"fontColor": "#00000000",
+"bidi": false,
+"bdo": "None",
+"boldBidi": false,
+"italicBidi": false,
+"fontSizeBidi": 11,
+"fontFamilyBidi": "Calibri",
+"allCaps": false,
+"localeIdBidi": 0,
+"localeId": 0,
+"localeIdFarEast": 0,
+"complexScript": false,
+"characterSpacing": 0,
+"scaling": 100
+}
+}
+},
+{
+"name": "Heading 2",
+"type": "Paragraph",
+"paragraphFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"leftIndent": 0,
+"rightIndent": 0,
+"firstLineIndent": 0,
+"textAlignment": "Left",
+"beforeSpacing": 2,
+"afterSpacing": 0,
+"lineSpacing": 1.0791666507720947,
+"lineSpacingType": "Multiple",
+"outlineLevel": "Level2",
+"listFormat": {},
+"inlineFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"leftIndent": 0,
+"rightIndent": 0,
+"firstLineIndent": 0,
+"textAlignment": "Left",
+"beforeSpacing": 2,
+"afterSpacing": 0,
+"spaceBeforeAuto": false,
+"spaceAfterAuto": false,
+"lineSpacing": 1.0791666507720947,
+"lineSpacingType": "Multiple",
+"outlineLevel": "Level2",
+"bidi": false,
+"keepLinesTogether": false,
+"keepWithNext": false,
+"contextualSpacing": false,
+"widowControl": true,
+"listFormat": {}
+}
+},
+"characterFormat": {
+"fontSize": 13,
+"fontFamily": "Calibri Light",
+"fontColor": "#2F5496FF",
+"fontFamilyAscii": "Calibri Light",
+"fontFamilyNonFarEast": "Calibri Light",
+"inlineFormat": {
+"bold": false,
+"italic": false,
+"fontSize": 13,
+"fontFamily": "Calibri Light",
+"underline": "None",
+"fontHintType": "Default",
+"strikethrough": "None",
+"baselineAlignment": "Normal",
+"highlightColor": "NoColor",
+"fontColor": "#2F5496FF",
+"bidi": false,
+"bdo": "None",
+"boldBidi": false,
+"italicBidi": false,
+"fontSizeBidi": 11,
+"fontFamilyBidi": "Calibri",
+"allCaps": false,
+"localeIdBidi": 0,
+"localeId": 0,
+"localeIdFarEast": 0,
+"complexScript": false,
+"fontFamilyAscii": "Calibri Light",
+"fontFamilyNonFarEast": "Calibri Light",
+"characterSpacing": 0,
+"scaling": 100
+}
+},
+"basedOn": "Normal",
+"link": "Heading 2 Char",
+"next": "Normal"
+},
+{
+"name": "Heading 2 Char",
+"type": "Character",
+"characterFormat": {
+"fontSize": 13,
+"fontFamily": "Calibri Light",
+"fontColor": "#2F5496FF",
+"fontFamilyAscii": "Calibri Light",
+"fontFamilyNonFarEast": "Calibri Light",
+"inlineFormat": {
+"bold": false,
+"italic": false,
+"fontSize": 13,
+"fontFamily": "Calibri Light",
+"underline": "None",
+"fontHintType": "Default",
+"strikethrough": "None",
+"baselineAlignment": "Normal",
+"highlightColor": "NoColor",
+"fontColor": "#2F5496FF",
+"bidi": false,
+"bdo": "None",
+"boldBidi": false,
+"italicBidi": false,
+"fontSizeBidi": 11,
+"fontFamilyBidi": "Calibri",
+"allCaps": false,
+"localeIdBidi": 0,
+"localeId": 0,
+"localeIdFarEast": 0,
+"complexScript": false,
+"fontFamilyAscii": "Calibri Light",
+"fontFamilyNonFarEast": "Calibri Light",
+"characterSpacing": 0,
+"scaling": 100
+}
+},
+"basedOn": "Default Paragraph Font"
+},
+{
+"name": "Heading 3",
+"type": "Paragraph",
+"paragraphFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"leftIndent": 0,
+"rightIndent": 0,
+"firstLineIndent": 0,
+"textAlignment": "Left",
+"beforeSpacing": 2,
+"afterSpacing": 0,
+"lineSpacing": 1.0791666507720947,
+"lineSpacingType": "Multiple",
+"outlineLevel": "Level3",
+"listFormat": {},
+"inlineFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"leftIndent": 0,
+"rightIndent": 0,
+"firstLineIndent": 0,
+"textAlignment": "Left",
+"beforeSpacing": 2,
+"afterSpacing": 0,
+"spaceBeforeAuto": false,
+"spaceAfterAuto": false,
+"lineSpacing": 1.0791666507720947,
+"lineSpacingType": "Multiple",
+"outlineLevel": "Level3",
+"bidi": false,
+"keepLinesTogether": false,
+"keepWithNext": false,
+"contextualSpacing": false,
+"widowControl": true,
+"listFormat": {}
+}
+},
+"characterFormat": {
+"fontSize": 12,
+"fontFamily": "Calibri Light",
+"fontColor": "#1F3763FF",
+"fontFamilyAscii": "Calibri Light",
+"fontFamilyNonFarEast": "Calibri Light",
+"inlineFormat": {
+"bold": false,
+"italic": false,
+"fontSize": 12,
+"fontFamily": "Calibri Light",
+"underline": "None",
+"fontHintType": "Default",
+"strikethrough": "None",
+"baselineAlignment": "Normal",
+"highlightColor": "NoColor",
+"fontColor": "#1F3763FF",
+"bidi": false,
+"bdo": "None",
+"boldBidi": false,
+"italicBidi": false,
+"fontSizeBidi": 11,
+"fontFamilyBidi": "Calibri",
+"allCaps": false,
+"localeIdBidi": 0,
+"localeId": 0,
+"localeIdFarEast": 0,
+"complexScript": false,
+"fontFamilyAscii": "Calibri Light",
+"fontFamilyNonFarEast": "Calibri Light",
+"characterSpacing": 0,
+"scaling": 100
+}
+},
+"basedOn": "Normal",
+"link": "Heading 3 Char",
+"next": "Normal"
+},
+{
+"name": "Heading 3 Char",
+"type": "Character",
+"characterFormat": {
+"fontSize": 12,
+"fontFamily": "Calibri Light",
+"fontColor": "#1F3763FF",
+"fontFamilyAscii": "Calibri Light",
+"fontFamilyNonFarEast": "Calibri Light",
+"inlineFormat": {
+"bold": false,
+"italic": false,
+"fontSize": 12,
+"fontFamily": "Calibri Light",
+"underline": "None",
+"fontHintType": "Default",
+"strikethrough": "None",
+"baselineAlignment": "Normal",
+"highlightColor": "NoColor",
+"fontColor": "#1F3763FF",
+"bidi": false,
+"bdo": "None",
+"boldBidi": false,
+"italicBidi": false,
+"fontSizeBidi": 11,
+"fontFamilyBidi": "Calibri",
+"allCaps": false,
+"localeIdBidi": 0,
+"localeId": 0,
+"localeIdFarEast": 0,
+"complexScript": false,
+"fontFamilyAscii": "Calibri Light",
+"fontFamilyNonFarEast": "Calibri Light",
+"characterSpacing": 0,
+"scaling": 100
+}
+},
+"basedOn": "Default Paragraph Font"
+},
+{
+"name": "Heading 4",
+"type": "Paragraph",
+"paragraphFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"leftIndent": 0,
+"rightIndent": 0,
+"firstLineIndent": 0,
+"textAlignment": "Left",
+"beforeSpacing": 2,
+"afterSpacing": 0,
+"lineSpacing": 1.0791666507720947,
+"lineSpacingType": "Multiple",
+"outlineLevel": "Level4",
+"listFormat": {},
+"inlineFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"leftIndent": 0,
+"rightIndent": 0,
+"firstLineIndent": 0,
+"textAlignment": "Left",
+"beforeSpacing": 2,
+"afterSpacing": 0,
+"spaceBeforeAuto": false,
+"spaceAfterAuto": false,
+"lineSpacing": 1.0791666507720947,
+"lineSpacingType": "Multiple",
+"outlineLevel": "Level4",
+"bidi": false,
+"keepLinesTogether": false,
+"keepWithNext": false,
+"contextualSpacing": false,
+"widowControl": true,
+"listFormat": {}
+}
+},
+"characterFormat": {
+"italic": true,
+"fontFamily": "Calibri Light",
+"fontColor": "#2F5496FF",
+"fontFamilyAscii": "Calibri Light",
+"fontFamilyNonFarEast": "Calibri Light",
+"inlineFormat": {
+"bold": false,
+"italic": true,
+"fontSize": 11,
+"fontFamily": "Calibri Light",
+"underline": "None",
+"fontHintType": "Default",
+"strikethrough": "None",
+"baselineAlignment": "Normal",
+"highlightColor": "NoColor",
+"fontColor": "#2F5496FF",
+"bidi": false,
+"bdo": "None",
+"boldBidi": false,
+"italicBidi": false,
+"fontSizeBidi": 11,
+"fontFamilyBidi": "Calibri",
+"allCaps": false,
+"localeIdBidi": 0,
+"localeId": 0,
+"localeIdFarEast": 0,
+"complexScript": false,
+"fontFamilyAscii": "Calibri Light",
+"fontFamilyNonFarEast": "Calibri Light",
+"characterSpacing": 0,
+"scaling": 100
+}
+},
+"basedOn": "Normal",
+"link": "Heading 4 Char",
+"next": "Normal"
+},
+{
+"name": "Heading 4 Char",
+"type": "Character",
+"characterFormat": {
+"italic": true,
+"fontFamily": "Calibri Light",
+"fontColor": "#2F5496FF",
+"fontFamilyAscii": "Calibri Light",
+"fontFamilyNonFarEast": "Calibri Light",
+"inlineFormat": {
+"bold": false,
+"italic": true,
+"fontSize": 11,
+"fontFamily": "Calibri Light",
+"underline": "None",
+"fontHintType": "Default",
+"strikethrough": "None",
+"baselineAlignment": "Normal",
+"highlightColor": "NoColor",
+"fontColor": "#2F5496FF",
+"bidi": false,
+"bdo": "None",
+"boldBidi": false,
+"italicBidi": false,
+"fontSizeBidi": 11,
+"fontFamilyBidi": "Calibri",
+"allCaps": false,
+"localeIdBidi": 0,
+"localeId": 0,
+"localeIdFarEast": 0,
+"complexScript": false,
+"fontFamilyAscii": "Calibri Light",
+"fontFamilyNonFarEast": "Calibri Light",
+"characterSpacing": 0,
+"scaling": 100
+}
+},
+"basedOn": "Default Paragraph Font"
+},
+{
+"name": "Heading 5",
+"type": "Paragraph",
+"paragraphFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"leftIndent": 0,
+"rightIndent": 0,
+"firstLineIndent": 0,
+"textAlignment": "Left",
+"beforeSpacing": 2,
+"afterSpacing": 0,
+"lineSpacing": 1.0791666507720947,
+"lineSpacingType": "Multiple",
+"outlineLevel": "Level5",
+"listFormat": {},
+"inlineFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"leftIndent": 0,
+"rightIndent": 0,
+"firstLineIndent": 0,
+"textAlignment": "Left",
+"beforeSpacing": 2,
+"afterSpacing": 0,
+"spaceBeforeAuto": false,
+"spaceAfterAuto": false,
+"lineSpacing": 1.0791666507720947,
+"lineSpacingType": "Multiple",
+"outlineLevel": "Level5",
+"bidi": false,
+"keepLinesTogether": false,
+"keepWithNext": false,
+"contextualSpacing": false,
+"widowControl": true,
+"listFormat": {}
+}
+},
+"characterFormat": {
+"fontFamily": "Calibri Light",
+"fontColor": "#2F5496FF",
+"fontFamilyAscii": "Calibri Light",
+"fontFamilyNonFarEast": "Calibri Light",
+"inlineFormat": {
+"bold": false,
+"italic": false,
+"fontSize": 11,
+"fontFamily": "Calibri Light",
+"underline": "None",
+"fontHintType": "Default",
+"strikethrough": "None",
+"baselineAlignment": "Normal",
+"highlightColor": "NoColor",
+"fontColor": "#2F5496FF",
+"bidi": false,
+"bdo": "None",
+"boldBidi": false,
+"italicBidi": false,
+"fontSizeBidi": 11,
+"fontFamilyBidi": "Calibri",
+"allCaps": false,
+"localeIdBidi": 0,
+"localeId": 0,
+"localeIdFarEast": 0,
+"complexScript": false,
+"fontFamilyAscii": "Calibri Light",
+"fontFamilyNonFarEast": "Calibri Light",
+"characterSpacing": 0,
+"scaling": 100
+}
+},
+"basedOn": "Normal",
+"link": "Heading 5 Char",
+"next": "Normal"
+},
+{
+"name": "Heading 5 Char",
+"type": "Character",
+"characterFormat": {
+"fontFamily": "Calibri Light",
+"fontColor": "#2F5496FF",
+"fontFamilyAscii": "Calibri Light",
+"fontFamilyNonFarEast": "Calibri Light",
+"inlineFormat": {
+"bold": false,
+"italic": false,
+"fontSize": 11,
+"fontFamily": "Calibri Light",
+"underline": "None",
+"fontHintType": "Default",
+"strikethrough": "None",
+"baselineAlignment": "Normal",
+"highlightColor": "NoColor",
+"fontColor": "#2F5496FF",
+"bidi": false,
+"bdo": "None",
+"boldBidi": false,
+"italicBidi": false,
+"fontSizeBidi": 11,
+"fontFamilyBidi": "Calibri",
+"allCaps": false,
+"localeIdBidi": 0,
+"localeId": 0,
+"localeIdFarEast": 0,
+"complexScript": false,
+"fontFamilyAscii": "Calibri Light",
+"fontFamilyNonFarEast": "Calibri Light",
+"characterSpacing": 0,
+"scaling": 100
+}
+},
+"basedOn": "Default Paragraph Font"
+},
+{
+"name": "Heading 6",
+"type": "Paragraph",
+"paragraphFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"leftIndent": 0,
+"rightIndent": 0,
+"firstLineIndent": 0,
+"textAlignment": "Left",
+"beforeSpacing": 2,
+"afterSpacing": 0,
+"lineSpacing": 1.0791666507720947,
+"lineSpacingType": "Multiple",
+"outlineLevel": "Level6",
+"listFormat": {},
+"inlineFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"leftIndent": 0,
+"rightIndent": 0,
+"firstLineIndent": 0,
+"textAlignment": "Left",
+"beforeSpacing": 2,
+"afterSpacing": 0,
+"spaceBeforeAuto": false,
+"spaceAfterAuto": false,
+"lineSpacing": 1.0791666507720947,
+"lineSpacingType": "Multiple",
+"outlineLevel": "Level6",
+"bidi": false,
+"keepLinesTogether": false,
+"keepWithNext": false,
+"contextualSpacing": false,
+"widowControl": true,
+"listFormat": {}
+}
+},
+"characterFormat": {
+"fontFamily": "Calibri Light",
+"fontColor": "#1F3763FF",
+"fontFamilyAscii": "Calibri Light",
+"fontFamilyNonFarEast": "Calibri Light",
+"inlineFormat": {
+"bold": false,
+"italic": false,
+"fontSize": 11,
+"fontFamily": "Calibri Light",
+"underline": "None",
+"fontHintType": "Default",
+"strikethrough": "None",
+"baselineAlignment": "Normal",
+"highlightColor": "NoColor",
+"fontColor": "#1F3763FF",
+"bidi": false,
+"bdo": "None",
+"boldBidi": false,
+"italicBidi": false,
+"fontSizeBidi": 11,
+"fontFamilyBidi": "Calibri",
+"allCaps": false,
+"localeIdBidi": 0,
+"localeId": 0,
+"localeIdFarEast": 0,
+"complexScript": false,
+"fontFamilyAscii": "Calibri Light",
+"fontFamilyNonFarEast": "Calibri Light",
+"characterSpacing": 0,
+"scaling": 100
+}
+},
+"basedOn": "Normal",
+"link": "Heading 6 Char",
+"next": "Normal"
+},
+{
+"name": "Heading 6 Char",
+"type": "Character",
+"characterFormat": {
+"fontFamily": "Calibri Light",
+"fontColor": "#1F3763FF",
+"fontFamilyAscii": "Calibri Light",
+"fontFamilyNonFarEast": "Calibri Light",
+"inlineFormat": {
+"bold": false,
+"italic": false,
+"fontSize": 11,
+"fontFamily": "Calibri Light",
+"underline": "None",
+"fontHintType": "Default",
+"strikethrough": "None",
+"baselineAlignment": "Normal",
+"highlightColor": "NoColor",
+"fontColor": "#1F3763FF",
+"bidi": false,
+"bdo": "None",
+"boldBidi": false,
+"italicBidi": false,
+"fontSizeBidi": 11,
+"fontFamilyBidi": "Calibri",
+"allCaps": false,
+"localeIdBidi": 0,
+"localeId": 0,
+"localeIdFarEast": 0,
+"complexScript": false,
+"fontFamilyAscii": "Calibri Light",
+"fontFamilyNonFarEast": "Calibri Light",
+"characterSpacing": 0,
+"scaling": 100
+}
+},
+"basedOn": "Default Paragraph Font"
+},
+{
+"name": "Heading 7",
+"type": "Paragraph",
+"paragraphFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"leftIndent": 0,
+"rightIndent": 0,
+"firstLineIndent": 0,
+"textAlignment": "Left",
+"beforeSpacing": 2,
+"afterSpacing": 0,
+"lineSpacing": 1.0791666507720947,
+"lineSpacingType": "Multiple",
+"outlineLevel": "Level7",
+"listFormat": {},
+"inlineFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"leftIndent": 0,
+"rightIndent": 0,
+"firstLineIndent": 0,
+"textAlignment": "Left",
+"beforeSpacing": 2,
+"afterSpacing": 0,
+"spaceBeforeAuto": false,
+"spaceAfterAuto": false,
+"lineSpacing": 1.0791666507720947,
+"lineSpacingType": "Multiple",
+"outlineLevel": "Level7",
+"bidi": false,
+"keepLinesTogether": false,
+"keepWithNext": false,
+"contextualSpacing": false,
+"widowControl": true,
+"listFormat": {}
+}
+},
+"characterFormat": {
+"italic": true,
+"fontFamily": "Calibri Light",
+"fontColor": "#1F3763FF",
+"fontFamilyAscii": "Calibri Light",
+"fontFamilyNonFarEast": "Calibri Light",
+"inlineFormat": {
+"bold": false,
+"italic": true,
+"fontSize": 11,
+"fontFamily": "Calibri Light",
+"underline": "None",
+"fontHintType": "Default",
+"strikethrough": "None",
+"baselineAlignment": "Normal",
+"highlightColor": "NoColor",
+"fontColor": "#1F3763FF",
+"bidi": false,
+"bdo": "None",
+"boldBidi": false,
+"italicBidi": false,
+"fontSizeBidi": 11,
+"fontFamilyBidi": "Calibri",
+"allCaps": false,
+"localeIdBidi": 0,
+"localeId": 0,
+"localeIdFarEast": 0,
+"complexScript": false,
+"fontFamilyAscii": "Calibri Light",
+"fontFamilyNonFarEast": "Calibri Light",
+"characterSpacing": 0,
+"scaling": 100
+}
+},
+"basedOn": "Normal",
+"link": "Heading 7 Char",
+"next": "Normal"
+},
+{
+"name": "Heading 7 Char",
+"type": "Character",
+"characterFormat": {
+"italic": true,
+"fontFamily": "Calibri Light",
+"fontColor": "#1F3763FF",
+"fontFamilyAscii": "Calibri Light",
+"fontFamilyNonFarEast": "Calibri Light",
+"inlineFormat": {
+"bold": false,
+"italic": true,
+"fontSize": 11,
+"fontFamily": "Calibri Light",
+"underline": "None",
+"fontHintType": "Default",
+"strikethrough": "None",
+"baselineAlignment": "Normal",
+"highlightColor": "NoColor",
+"fontColor": "#1F3763FF",
+"bidi": false,
+"bdo": "None",
+"boldBidi": false,
+"italicBidi": false,
+"fontSizeBidi": 11,
+"fontFamilyBidi": "Calibri",
+"allCaps": false,
+"localeIdBidi": 0,
+"localeId": 0,
+"localeIdFarEast": 0,
+"complexScript": false,
+"fontFamilyAscii": "Calibri Light",
+"fontFamilyNonFarEast": "Calibri Light",
+"characterSpacing": 0,
+"scaling": 100
+}
+},
+"basedOn": "Default Paragraph Font"
+},
+{
+"name": "Heading 8",
+"type": "Paragraph",
+"paragraphFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"leftIndent": 0,
+"rightIndent": 0,
+"firstLineIndent": 0,
+"textAlignment": "Left",
+"beforeSpacing": 2,
+"afterSpacing": 0,
+"lineSpacing": 1.0791666507720947,
+"lineSpacingType": "Multiple",
+"outlineLevel": "Level8",
+"listFormat": {},
+"inlineFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"leftIndent": 0,
+"rightIndent": 0,
+"firstLineIndent": 0,
+"textAlignment": "Left",
+"beforeSpacing": 2,
+"afterSpacing": 0,
+"spaceBeforeAuto": false,
+"spaceAfterAuto": false,
+"lineSpacing": 1.0791666507720947,
+"lineSpacingType": "Multiple",
+"outlineLevel": "Level8",
+"bidi": false,
+"keepLinesTogether": false,
+"keepWithNext": false,
+"contextualSpacing": false,
+"widowControl": true,
+"listFormat": {}
+}
+},
+"characterFormat": {
+"fontSize": 10.5,
+"fontFamily": "Calibri Light",
+"fontColor": "#333333FF",
+"fontFamilyAscii": "Calibri Light",
+"fontFamilyNonFarEast": "Calibri Light",
+"inlineFormat": {
+"bold": false,
+"italic": false,
+"fontSize": 10.5,
+"fontFamily": "Calibri Light",
+"underline": "None",
+"fontHintType": "Default",
+"strikethrough": "None",
+"baselineAlignment": "Normal",
+"highlightColor": "NoColor",
+"fontColor": "#333333FF",
+"bidi": false,
+"bdo": "None",
+"boldBidi": false,
+"italicBidi": false,
+"fontSizeBidi": 11,
+"fontFamilyBidi": "Calibri",
+"allCaps": false,
+"localeIdBidi": 0,
+"localeId": 0,
+"localeIdFarEast": 0,
+"complexScript": false,
+"fontFamilyAscii": "Calibri Light",
+"fontFamilyNonFarEast": "Calibri Light",
+"characterSpacing": 0,
+"scaling": 100
+}
+},
+"basedOn": "Normal",
+"link": "Heading 8 Char",
+"next": "Normal"
+},
+{
+"name": "Heading 8 Char",
+"type": "Character",
+"characterFormat": {
+"fontSize": 10.5,
+"fontFamily": "Calibri Light",
+"fontColor": "#333333FF",
+"fontFamilyAscii": "Calibri Light",
+"fontFamilyNonFarEast": "Calibri Light",
+"inlineFormat": {
+"bold": false,
+"italic": false,
+"fontSize": 10.5,
+"fontFamily": "Calibri Light",
+"underline": "None",
+"fontHintType": "Default",
+"strikethrough": "None",
+"baselineAlignment": "Normal",
+"highlightColor": "NoColor",
+"fontColor": "#333333FF",
+"bidi": false,
+"bdo": "None",
+"boldBidi": false,
+"italicBidi": false,
+"fontSizeBidi": 11,
+"fontFamilyBidi": "Calibri",
+"allCaps": false,
+"localeIdBidi": 0,
+"localeId": 0,
+"localeIdFarEast": 0,
+"complexScript": false,
+"fontFamilyAscii": "Calibri Light",
+"fontFamilyNonFarEast": "Calibri Light",
+"characterSpacing": 0,
+"scaling": 100
+}
+},
+"basedOn": "Default Paragraph Font"
+},
+{
+"name": "Heading 9",
+"type": "Paragraph",
+"paragraphFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"leftIndent": 0,
+"rightIndent": 0,
+"firstLineIndent": 0,
+"textAlignment": "Left",
+"beforeSpacing": 2,
+"afterSpacing": 0,
+"lineSpacing": 1.0791666507720947,
+"lineSpacingType": "Multiple",
+"outlineLevel": "Level9",
+"listFormat": {},
+"inlineFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"leftIndent": 0,
+"rightIndent": 0,
+"firstLineIndent": 0,
+"textAlignment": "Left",
+"beforeSpacing": 2,
+"afterSpacing": 0,
+"spaceBeforeAuto": false,
+"spaceAfterAuto": false,
+"lineSpacing": 1.0791666507720947,
+"lineSpacingType": "Multiple",
+"outlineLevel": "Level9",
+"bidi": false,
+"keepLinesTogether": false,
+"keepWithNext": false,
+"contextualSpacing": false,
+"widowControl": true,
+"listFormat": {}
+}
+},
+"characterFormat": {
+"italic": true,
+"fontSize": 10.5,
+"fontFamily": "Calibri Light",
+"fontColor": "#333333FF",
+"fontFamilyAscii": "Calibri Light",
+"fontFamilyNonFarEast": "Calibri Light",
+"inlineFormat": {
+"bold": false,
+"italic": true,
+"fontSize": 10.5,
+"fontFamily": "Calibri Light",
+"underline": "None",
+"fontHintType": "Default",
+"strikethrough": "None",
+"baselineAlignment": "Normal",
+"highlightColor": "NoColor",
+"fontColor": "#333333FF",
+"bidi": false,
+"bdo": "None",
+"boldBidi": false,
+"italicBidi": false,
+"fontSizeBidi": 11,
+"fontFamilyBidi": "Calibri",
+"allCaps": false,
+"localeIdBidi": 0,
+"localeId": 0,
+"localeIdFarEast": 0,
+"complexScript": false,
+"fontFamilyAscii": "Calibri Light",
+"fontFamilyNonFarEast": "Calibri Light",
+"characterSpacing": 0,
+"scaling": 100
+}
+},
+"basedOn": "Normal",
+"link": "Heading 9 Char",
+"next": "Normal"
+},
+{
+"name": "Heading 9 Char",
+"type": "Character",
+"characterFormat": {
+"italic": true,
+"fontSize": 10.5,
+"fontFamily": "Calibri Light",
+"fontColor": "#333333FF",
+"fontFamilyAscii": "Calibri Light",
+"fontFamilyNonFarEast": "Calibri Light",
+"inlineFormat": {
+"bold": false,
+"italic": true,
+"fontSize": 10.5,
+"fontFamily": "Calibri Light",
+"underline": "None",
+"fontHintType": "Default",
+"strikethrough": "None",
+"baselineAlignment": "Normal",
+"highlightColor": "NoColor",
+"fontColor": "#333333FF",
+"bidi": false,
+"bdo": "None",
+"boldBidi": false,
+"italicBidi": false,
+"fontSizeBidi": 11,
+"fontFamilyBidi": "Calibri",
+"allCaps": false,
+"localeIdBidi": 0,
+"localeId": 0,
+"localeIdFarEast": 0,
+"complexScript": false,
+"fontFamilyAscii": "Calibri Light",
+"fontFamilyNonFarEast": "Calibri Light",
+"characterSpacing": 0,
+"scaling": 100
+}
+},
+"basedOn": "Default Paragraph Font"
+},
+{
+"name": "Normal Table",
+"type": "Table",
+"next": "Normal Table"
+},
+{
+"name": "Line Number",
+"type": "Character",
+"characterFormat": {
+"inlineFormat": {
+"bold": false,
+"italic": false,
+"fontSize": 11,
+"fontFamily": "Calibri",
+"underline": "None",
+"fontHintType": "Default",
+"strikethrough": "None",
+"baselineAlignment": "Normal",
+"highlightColor": "NoColor",
+"fontColor": "#00000000",
+"bidi": false,
+"bdo": "None",
+"boldBidi": false,
+"italicBidi": false,
+"fontSizeBidi": 11,
+"fontFamilyBidi": "Calibri",
+"allCaps": false,
+"localeIdBidi": 0,
+"localeId": 0,
+"localeIdFarEast": 0,
+"complexScript": false,
+"characterSpacing": 0,
+"scaling": 100
+}
+},
+"basedOn": "Default Paragraph Font"
+},
+{
+"name": "Hyperlink",
+"type": "Character",
+"characterFormat": {
+"underline": "Single",
+"fontColor": "#0000FFFF",
+"inlineFormat": {
+"bold": false,
+"italic": false,
+"fontSize": 11,
+"fontFamily": "Calibri",
+"underline": "Single",
+"fontHintType": "Default",
+"strikethrough": "None",
+"baselineAlignment": "Normal",
+"highlightColor": "NoColor",
+"fontColor": "#0000FFFF",
+"bidi": false,
+"bdo": "None",
+"boldBidi": false,
+"italicBidi": false,
+"fontSizeBidi": 11,
+"fontFamilyBidi": "Calibri",
+"allCaps": false,
+"localeIdBidi": 0,
+"localeId": 0,
+"localeIdFarEast": 0,
+"complexScript": false,
+"characterSpacing": 0,
+"scaling": 100
+}
+},
+"basedOn": "Default Paragraph Font"
+},
+{
+"name": "Table Simple 1",
+"type": "Table",
+"basedOn": "Normal Table",
+"next": "Table Simple 1"
+},
+{
+"name": "Header",
+"type": "Paragraph",
+"paragraphFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"afterSpacing": 0,
+"lineSpacing": 1,
+"lineSpacingType": "Multiple",
+"listFormat": {},
+"inlineFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"leftIndent": 0,
+"rightIndent": 0,
+"firstLineIndent": 0,
+"textAlignment": "Left",
+"beforeSpacing": 0,
+"afterSpacing": 0,
+"spaceBeforeAuto": false,
+"spaceAfterAuto": false,
+"lineSpacing": 1,
+"lineSpacingType": "Multiple",
+"outlineLevel": "BodyText",
+"bidi": false,
+"keepLinesTogether": false,
+"keepWithNext": false,
+"contextualSpacing": false,
+"widowControl": true,
+"listFormat": {}
+}
+},
+"characterFormat": {
+"inlineFormat": {
+"bold": false,
+"italic": false,
+"fontSize": 11,
+"fontFamily": "Calibri",
+"underline": "None",
+"fontHintType": "Default",
+"strikethrough": "None",
+"baselineAlignment": "Normal",
+"highlightColor": "NoColor",
+"fontColor": "#00000000",
+"bidi": false,
+"bdo": "None",
+"boldBidi": false,
+"italicBidi": false,
+"fontSizeBidi": 11,
+"fontFamilyBidi": "Calibri",
+"allCaps": false,
+"localeIdBidi": 0,
+"localeId": 0,
+"localeIdFarEast": 0,
+"complexScript": false,
+"characterSpacing": 0,
+"scaling": 100
+}
+},
+"basedOn": "Normal",
+"next": "Header"
+},
+{
+"name": "Footer",
+"type": "Paragraph",
+"paragraphFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"afterSpacing": 0,
+"lineSpacing": 1,
+"lineSpacingType": "Multiple",
+"listFormat": {},
+"inlineFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"leftIndent": 0,
+"rightIndent": 0,
+"firstLineIndent": 0,
+"textAlignment": "Left",
+"beforeSpacing": 0,
+"afterSpacing": 0,
+"spaceBeforeAuto": false,
+"spaceAfterAuto": false,
+"lineSpacing": 1,
+"lineSpacingType": "Multiple",
+"outlineLevel": "BodyText",
+"bidi": false,
+"keepLinesTogether": false,
+"keepWithNext": false,
+"contextualSpacing": false,
+"widowControl": true,
+"listFormat": {}
+}
+},
+"characterFormat": {
+"inlineFormat": {
+"bold": false,
+"italic": false,
+"fontSize": 11,
+"fontFamily": "Calibri",
+"underline": "None",
+"fontHintType": "Default",
+"strikethrough": "None",
+"baselineAlignment": "Normal",
+"highlightColor": "NoColor",
+"fontColor": "#00000000",
+"bidi": false,
+"bdo": "None",
+"boldBidi": false,
+"italicBidi": false,
+"fontSizeBidi": 11,
+"fontFamilyBidi": "Calibri",
+"allCaps": false,
+"localeIdBidi": 0,
+"localeId": 0,
+"localeIdFarEast": 0,
+"complexScript": false,
+"characterSpacing": 0,
+"scaling": 100
+}
+},
+"basedOn": "Normal",
+"next": "Footer"
+},
+{
+"name": "Table Grid",
+"type": "Table",
+"basedOn": "Normal Table",
+"next": "Table Grid"
+},
+{
+"name": "Normal (Web)",
+"type": "Paragraph",
+"paragraphFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"beforeSpacing": 5,
+"afterSpacing": 5,
+"spaceBeforeAuto": true,
+"spaceAfterAuto": true,
+"listFormat": {},
+"inlineFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"leftIndent": 0,
+"rightIndent": 0,
+"firstLineIndent": 0,
+"textAlignment": "Left",
+"beforeSpacing": 5,
+"afterSpacing": 5,
+"spaceBeforeAuto": true,
+"spaceAfterAuto": true,
+"lineSpacing": 1,
+"lineSpacingType": "Multiple",
+"outlineLevel": "BodyText",
+"bidi": false,
+"keepLinesTogether": false,
+"keepWithNext": false,
+"contextualSpacing": false,
+"widowControl": true,
+"listFormat": {}
+}
+},
+"characterFormat": {
+"fontSize": 12,
+"inlineFormat": {
+"bold": false,
+"italic": false,
+"fontSize": 12,
+"fontFamily": "Calibri",
+"underline": "None",
+"fontHintType": "Default",
+"strikethrough": "None",
+"baselineAlignment": "Normal",
+"highlightColor": "NoColor",
+"fontColor": "#00000000",
+"bidi": false,
+"bdo": "None",
+"boldBidi": false,
+"italicBidi": false,
+"fontSizeBidi": 11,
+"fontFamilyBidi": "Calibri",
+"allCaps": false,
+"localeIdBidi": 0,
+"localeId": 0,
+"localeIdFarEast": 0,
+"complexScript": false,
+"characterSpacing": 0,
+"scaling": 100
+}
+},
+"basedOn": "Normal",
+"next": "Normal (Web)"
+}
+],
+"lists": [
+{
+"abstractListId": 0,
+"levelOverrides": [],
+"listId": 0,
+"nsid": 39812443
+}
+],
+"abstractLists": [
+{
+"abstractListId": 0,
+"nsid": 39812443,
+"levels": [
+{
+"characterFormat": {
+"inlineFormat": {
+"bold": false,
+"italic": false,
+"fontSize": 11,
+"fontFamily": "Calibri",
+"underline": "None",
+"fontHintType": "Default",
+"strikethrough": "None",
+"baselineAlignment": "Normal",
+"highlightColor": "NoColor",
+"fontColor": "#00000000",
+"bidi": false,
+"bdo": "None",
+"boldBidi": false,
+"italicBidi": false,
+"fontSizeBidi": 11,
+"fontFamilyBidi": "Calibri",
+"allCaps": false,
+"localeIdBidi": 0,
+"localeId": 0,
+"localeIdFarEast": 0,
+"complexScript": false,
+"characterSpacing": 0,
+"scaling": 100
+}
+},
+"paragraphFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"leftIndent": 36,
+"firstLineIndent": -18,
+"listFormat": {},
+"inlineFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"leftIndent": 36,
+"rightIndent": 0,
+"firstLineIndent": -18,
+"textAlignment": "Left",
+"beforeSpacing": 0,
+"afterSpacing": 0,
+"spaceBeforeAuto": false,
+"spaceAfterAuto": false,
+"lineSpacing": 1,
+"lineSpacingType": "Multiple",
+"outlineLevel": "BodyText",
+"bidi": false,
+"keepLinesTogether": false,
+"keepWithNext": false,
+"contextualSpacing": false,
+"widowControl": true,
+"listFormat": {}
+}
+},
+"isLegalStyleNumbering": false,
+"followCharacter": "Space",
+"listLevelPattern": "Arabic",
+"numberFormat": "%1.",
+"paraStyleName": "",
+"restartLevel": 0,
+"startAt": 1
+},
+{
+"characterFormat": {
+"inlineFormat": {
+"bold": false,
+"italic": false,
+"fontSize": 11,
+"fontFamily": "Calibri",
+"underline": "None",
+"fontHintType": "Default",
+"strikethrough": "None",
+"baselineAlignment": "Normal",
+"highlightColor": "NoColor",
+"fontColor": "#00000000",
+"bidi": false,
+"bdo": "None",
+"boldBidi": false,
+"italicBidi": false,
+"fontSizeBidi": 11,
+"fontFamilyBidi": "Calibri",
+"allCaps": false,
+"localeIdBidi": 0,
+"localeId": 0,
+"localeIdFarEast": 0,
+"complexScript": false,
+"characterSpacing": 0,
+"scaling": 100
+}
+},
+"paragraphFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"listFormat": {},
+"inlineFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"leftIndent": 0,
+"rightIndent": 0,
+"firstLineIndent": 0,
+"textAlignment": "Left",
+"beforeSpacing": 0,
+"afterSpacing": 0,
+"spaceBeforeAuto": false,
+"spaceAfterAuto": false,
+"lineSpacing": 1,
+"lineSpacingType": "Multiple",
+"outlineLevel": "BodyText",
+"bidi": false,
+"keepLinesTogether": false,
+"keepWithNext": false,
+"contextualSpacing": false,
+"widowControl": true,
+"listFormat": {}
+}
+},
+"isLegalStyleNumbering": false,
+"followCharacter": "Tab",
+"listLevelPattern": "Arabic",
+"numberFormat": "%2",
+"paraStyleName": "",
+"restartLevel": 1,
+"startAt": 1
+},
+{
+"characterFormat": {
+"inlineFormat": {
+"bold": false,
+"italic": false,
+"fontSize": 11,
+"fontFamily": "Calibri",
+"underline": "None",
+"fontHintType": "Default",
+"strikethrough": "None",
+"baselineAlignment": "Normal",
+"highlightColor": "NoColor",
+"fontColor": "#00000000",
+"bidi": false,
+"bdo": "None",
+"boldBidi": false,
+"italicBidi": false,
+"fontSizeBidi": 11,
+"fontFamilyBidi": "Calibri",
+"allCaps": false,
+"localeIdBidi": 0,
+"localeId": 0,
+"localeIdFarEast": 0,
+"complexScript": false,
+"characterSpacing": 0,
+"scaling": 100
+}
+},
+"paragraphFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"listFormat": {},
+"inlineFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"leftIndent": 0,
+"rightIndent": 0,
+"firstLineIndent": 0,
+"textAlignment": "Left",
+"beforeSpacing": 0,
+"afterSpacing": 0,
+"spaceBeforeAuto": false,
+"spaceAfterAuto": false,
+"lineSpacing": 1,
+"lineSpacingType": "Multiple",
+"outlineLevel": "BodyText",
+"bidi": false,
+"keepLinesTogether": false,
+"keepWithNext": false,
+"contextualSpacing": false,
+"widowControl": true,
+"listFormat": {}
+}
+},
+"isLegalStyleNumbering": false,
+"followCharacter": "Tab",
+"listLevelPattern": "Arabic",
+"numberFormat": "%3",
+"paraStyleName": "",
+"restartLevel": 2,
+"startAt": 1
+},
+{
+"characterFormat": {
+"inlineFormat": {
+"bold": false,
+"italic": false,
+"fontSize": 11,
+"fontFamily": "Calibri",
+"underline": "None",
+"fontHintType": "Default",
+"strikethrough": "None",
+"baselineAlignment": "Normal",
+"highlightColor": "NoColor",
+"fontColor": "#00000000",
+"bidi": false,
+"bdo": "None",
+"boldBidi": false,
+"italicBidi": false,
+"fontSizeBidi": 11,
+"fontFamilyBidi": "Calibri",
+"allCaps": false,
+"localeIdBidi": 0,
+"localeId": 0,
+"localeIdFarEast": 0,
+"complexScript": false,
+"characterSpacing": 0,
+"scaling": 100
+}
+},
+"paragraphFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"listFormat": {},
+"inlineFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"leftIndent": 0,
+"rightIndent": 0,
+"firstLineIndent": 0,
+"textAlignment": "Left",
+"beforeSpacing": 0,
+"afterSpacing": 0,
+"spaceBeforeAuto": false,
+"spaceAfterAuto": false,
+"lineSpacing": 1,
+"lineSpacingType": "Multiple",
+"outlineLevel": "BodyText",
+"bidi": false,
+"keepLinesTogether": false,
+"keepWithNext": false,
+"contextualSpacing": false,
+"widowControl": true,
+"listFormat": {}
+}
+},
+"isLegalStyleNumbering": false,
+"followCharacter": "Tab",
+"listLevelPattern": "Arabic",
+"numberFormat": "%4",
+"paraStyleName": "",
+"restartLevel": 3,
+"startAt": 1
+},
+{
+"characterFormat": {
+"inlineFormat": {
+"bold": false,
+"italic": false,
+"fontSize": 11,
+"fontFamily": "Calibri",
+"underline": "None",
+"fontHintType": "Default",
+"strikethrough": "None",
+"baselineAlignment": "Normal",
+"highlightColor": "NoColor",
+"fontColor": "#00000000",
+"bidi": false,
+"bdo": "None",
+"boldBidi": false,
+"italicBidi": false,
+"fontSizeBidi": 11,
+"fontFamilyBidi": "Calibri",
+"allCaps": false,
+"localeIdBidi": 0,
+"localeId": 0,
+"localeIdFarEast": 0,
+"complexScript": false,
+"characterSpacing": 0,
+"scaling": 100
+}
+},
+"paragraphFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"listFormat": {},
+"inlineFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"leftIndent": 0,
+"rightIndent": 0,
+"firstLineIndent": 0,
+"textAlignment": "Left",
+"beforeSpacing": 0,
+"afterSpacing": 0,
+"spaceBeforeAuto": false,
+"spaceAfterAuto": false,
+"lineSpacing": 1,
+"lineSpacingType": "Multiple",
+"outlineLevel": "BodyText",
+"bidi": false,
+"keepLinesTogether": false,
+"keepWithNext": false,
+"contextualSpacing": false,
+"widowControl": true,
+"listFormat": {}
+}
+},
+"isLegalStyleNumbering": false,
+"followCharacter": "Tab",
+"listLevelPattern": "Arabic",
+"numberFormat": "%5",
+"paraStyleName": "",
+"restartLevel": 4,
+"startAt": 1
+},
+{
+"characterFormat": {
+"inlineFormat": {
+"bold": false,
+"italic": false,
+"fontSize": 11,
+"fontFamily": "Calibri",
+"underline": "None",
+"fontHintType": "Default",
+"strikethrough": "None",
+"baselineAlignment": "Normal",
+"highlightColor": "NoColor",
+"fontColor": "#00000000",
+"bidi": false,
+"bdo": "None",
+"boldBidi": false,
+"italicBidi": false,
+"fontSizeBidi": 11,
+"fontFamilyBidi": "Calibri",
+"allCaps": false,
+"localeIdBidi": 0,
+"localeId": 0,
+"localeIdFarEast": 0,
+"complexScript": false,
+"characterSpacing": 0,
+"scaling": 100
+}
+},
+"paragraphFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"listFormat": {},
+"inlineFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"leftIndent": 0,
+"rightIndent": 0,
+"firstLineIndent": 0,
+"textAlignment": "Left",
+"beforeSpacing": 0,
+"afterSpacing": 0,
+"spaceBeforeAuto": false,
+"spaceAfterAuto": false,
+"lineSpacing": 1,
+"lineSpacingType": "Multiple",
+"outlineLevel": "BodyText",
+"bidi": false,
+"keepLinesTogether": false,
+"keepWithNext": false,
+"contextualSpacing": false,
+"widowControl": true,
+"listFormat": {}
+}
+},
+"isLegalStyleNumbering": false,
+"followCharacter": "Tab",
+"listLevelPattern": "Arabic",
+"numberFormat": "%6",
+"paraStyleName": "",
+"restartLevel": 5,
+"startAt": 1
+},
+{
+"characterFormat": {
+"inlineFormat": {
+"bold": false,
+"italic": false,
+"fontSize": 11,
+"fontFamily": "Calibri",
+"underline": "None",
+"fontHintType": "Default",
+"strikethrough": "None",
+"baselineAlignment": "Normal",
+"highlightColor": "NoColor",
+"fontColor": "#00000000",
+"bidi": false,
+"bdo": "None",
+"boldBidi": false,
+"italicBidi": false,
+"fontSizeBidi": 11,
+"fontFamilyBidi": "Calibri",
+"allCaps": false,
+"localeIdBidi": 0,
+"localeId": 0,
+"localeIdFarEast": 0,
+"complexScript": false,
+"characterSpacing": 0,
+"scaling": 100
+}
+},
+"paragraphFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"listFormat": {},
+"inlineFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"leftIndent": 0,
+"rightIndent": 0,
+"firstLineIndent": 0,
+"textAlignment": "Left",
+"beforeSpacing": 0,
+"afterSpacing": 0,
+"spaceBeforeAuto": false,
+"spaceAfterAuto": false,
+"lineSpacing": 1,
+"lineSpacingType": "Multiple",
+"outlineLevel": "BodyText",
+"bidi": false,
+"keepLinesTogether": false,
+"keepWithNext": false,
+"contextualSpacing": false,
+"widowControl": true,
+"listFormat": {}
+}
+},
+"isLegalStyleNumbering": false,
+"followCharacter": "Tab",
+"listLevelPattern": "Arabic",
+"numberFormat": "%7",
+"paraStyleName": "",
+"restartLevel": 6,
+"startAt": 1
+},
+{
+"characterFormat": {
+"inlineFormat": {
+"bold": false,
+"italic": false,
+"fontSize": 11,
+"fontFamily": "Calibri",
+"underline": "None",
+"fontHintType": "Default",
+"strikethrough": "None",
+"baselineAlignment": "Normal",
+"highlightColor": "NoColor",
+"fontColor": "#00000000",
+"bidi": false,
+"bdo": "None",
+"boldBidi": false,
+"italicBidi": false,
+"fontSizeBidi": 11,
+"fontFamilyBidi": "Calibri",
+"allCaps": false,
+"localeIdBidi": 0,
+"localeId": 0,
+"localeIdFarEast": 0,
+"complexScript": false,
+"characterSpacing": 0,
+"scaling": 100
+}
+},
+"paragraphFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"listFormat": {},
+"inlineFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"leftIndent": 0,
+"rightIndent": 0,
+"firstLineIndent": 0,
+"textAlignment": "Left",
+"beforeSpacing": 0,
+"afterSpacing": 0,
+"spaceBeforeAuto": false,
+"spaceAfterAuto": false,
+"lineSpacing": 1,
+"lineSpacingType": "Multiple",
+"outlineLevel": "BodyText",
+"bidi": false,
+"keepLinesTogether": false,
+"keepWithNext": false,
+"contextualSpacing": false,
+"widowControl": true,
+"listFormat": {}
+}
+},
+"isLegalStyleNumbering": false,
+"followCharacter": "Tab",
+"listLevelPattern": "Arabic",
+"numberFormat": "%8",
+"paraStyleName": "",
+"restartLevel": 7,
+"startAt": 1
+},
+{
+"characterFormat": {
+"inlineFormat": {
+"bold": false,
+"italic": false,
+"fontSize": 11,
+"fontFamily": "Calibri",
+"underline": "None",
+"fontHintType": "Default",
+"strikethrough": "None",
+"baselineAlignment": "Normal",
+"highlightColor": "NoColor",
+"fontColor": "#00000000",
+"bidi": false,
+"bdo": "None",
+"boldBidi": false,
+"italicBidi": false,
+"fontSizeBidi": 11,
+"fontFamilyBidi": "Calibri",
+"allCaps": false,
+"localeIdBidi": 0,
+"localeId": 0,
+"localeIdFarEast": 0,
+"complexScript": false,
+"characterSpacing": 0,
+"scaling": 100
+}
+},
+"paragraphFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"listFormat": {},
+"inlineFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"leftIndent": 0,
+"rightIndent": 0,
+"firstLineIndent": 0,
+"textAlignment": "Left",
+"beforeSpacing": 0,
+"afterSpacing": 0,
+"spaceBeforeAuto": false,
+"spaceAfterAuto": false,
+"lineSpacing": 1,
+"lineSpacingType": "Multiple",
+"outlineLevel": "BodyText",
+"bidi": false,
+"keepLinesTogether": false,
+"keepWithNext": false,
+"contextualSpacing": false,
+"widowControl": true,
+"listFormat": {}
+}
+},
+"isLegalStyleNumbering": false,
+"followCharacter": "Tab",
+"listLevelPattern": "Arabic",
+"numberFormat": "%9",
+"paraStyleName": "",
+"restartLevel": 8,
+"startAt": 1
+}
+]
+}
+],
+"comments": [],
+"revisions": [],
+"customXml": [],
+"images": {},
+"footnotes": {
+"separator": [
+{
+"paragraphFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"styleName": "Normal",
+"listFormat": {},
+"inlineFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"leftIndent": 0,
+"rightIndent": 0,
+"firstLineIndent": 0,
+"textAlignment": "Left",
+"beforeSpacing": 0,
+"afterSpacing": 0,
+"spaceBeforeAuto": false,
+"spaceAfterAuto": false,
+"lineSpacing": 1,
+"lineSpacingType": "Multiple",
+"styleName": "Normal",
+"outlineLevel": "BodyText",
+"bidi": false,
+"keepLinesTogether": false,
+"keepWithNext": false,
+"contextualSpacing": false,
+"widowControl": true,
+"listFormat": {}
+}
+},
+"characterFormat": {
+"inlineFormat": {
+"bold": false,
+"italic": false,
+"fontSize": 10,
+"fontFamily": "Tahoma",
+"underline": "None",
+"fontHintType": "Default",
+"strikethrough": "None",
+"baselineAlignment": "Normal",
+"highlightColor": "NoColor",
+"fontColor": "#000000",
+"bidi": false,
+"bdo": "None",
+"boldBidi": false,
+"italicBidi": false,
+"fontSizeBidi": 11,
+"fontFamilyBidi": "Calibri",
+"allCaps": false,
+"localeIdBidi": 1025,
+"localeId": 1033,
+"localeIdFarEast": 1033,
+"complexScript": false,
+"fontFamilyAscii": "Tahoma",
+"fontFamilyNonFarEast": "Tahoma",
+"characterSpacing": 0,
+"scaling": 100
+}
+},
+"inlines": [
+{
+"characterFormat": {
+"inlineFormat": {
+"bold": false,
+"italic": false,
+"underline": "None",
+"fontHintType": "Default",
+"strikethrough": "None",
+"baselineAlignment": "Normal",
+"highlightColor": "NoColor",
+"bidi": false,
+"bdo": "None",
+"boldBidi": false,
+"italicBidi": false,
+"fontSizeBidi": 11,
+"fontFamilyBidi": "Calibri",
+"allCaps": false,
+"localeIdBidi": 1025,
+"localeId": 1033,
+"localeIdFarEast": 1033,
+"complexScript": false
+}
+},
+"text": "\u0003"
+}
+]
+}
+],
+"continuationSeparator": [
+{
+"paragraphFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"styleName": "Normal",
+"listFormat": {},
+"inlineFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"leftIndent": 0,
+"rightIndent": 0,
+"firstLineIndent": 0,
+"textAlignment": "Left",
+"beforeSpacing": 0,
+"afterSpacing": 0,
+"spaceBeforeAuto": false,
+"spaceAfterAuto": false,
+"lineSpacing": 1,
+"lineSpacingType": "Multiple",
+"styleName": "Normal",
+"outlineLevel": "BodyText",
+"bidi": false,
+"keepLinesTogether": false,
+"keepWithNext": false,
+"contextualSpacing": false,
+"widowControl": true,
+"listFormat": {}
+}
+},
+"characterFormat": {
+"inlineFormat": {
+"bold": false,
+"italic": false,
+"fontSize": 10,
+"fontFamily": "Tahoma",
+"underline": "None",
+"fontHintType": "Default",
+"strikethrough": "None",
+"baselineAlignment": "Normal",
+"highlightColor": "NoColor",
+"fontColor": "#000000",
+"bidi": false,
+"bdo": "None",
+"boldBidi": false,
+"italicBidi": false,
+"fontSizeBidi": 11,
+"fontFamilyBidi": "Calibri",
+"allCaps": false,
+"localeIdBidi": 1025,
+"localeId": 1033,
+"localeIdFarEast": 1033,
+"complexScript": false,
+"fontFamilyAscii": "Tahoma",
+"fontFamilyNonFarEast": "Tahoma",
+"characterSpacing": 0,
+"scaling": 100
+}
+},
+"inlines": [
+{
+"characterFormat": {
+"inlineFormat": {
+"bold": false,
+"italic": false,
+"underline": "None",
+"fontHintType": "Default",
+"strikethrough": "None",
+"baselineAlignment": "Normal",
+"highlightColor": "NoColor",
+"bidi": false,
+"bdo": "None",
+"boldBidi": false,
+"italicBidi": false,
+"fontSizeBidi": 11,
+"fontFamilyBidi": "Calibri",
+"allCaps": false,
+"localeIdBidi": 1025,
+"localeId": 1033,
+"localeIdFarEast": 1033,
+"complexScript": false
+}
+},
+"text": "\u0004"
+}
+]
+}
+],
+"continuationNotice": [
+{
+"paragraphFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"styleName": "Normal",
+"listFormat": {},
+"inlineFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"leftIndent": 0,
+"rightIndent": 0,
+"firstLineIndent": 0,
+"textAlignment": "Left",
+"beforeSpacing": 0,
+"afterSpacing": 0,
+"spaceBeforeAuto": false,
+"spaceAfterAuto": false,
+"lineSpacing": 1,
+"lineSpacingType": "Multiple",
+"styleName": "Normal",
+"outlineLevel": "BodyText",
+"bidi": false,
+"keepLinesTogether": false,
+"keepWithNext": false,
+"contextualSpacing": false,
+"widowControl": true,
+"listFormat": {}
+}
+},
+"characterFormat": {
+"inlineFormat": {
+"bold": false,
+"italic": false,
+"fontSize": 10,
+"fontFamily": "Tahoma",
+"underline": "None",
+"fontHintType": "Default",
+"strikethrough": "None",
+"baselineAlignment": "Normal",
+"highlightColor": "NoColor",
+"fontColor": "#000000",
+"bidi": false,
+"bdo": "None",
+"boldBidi": false,
+"italicBidi": false,
+"fontSizeBidi": 11,
+"fontFamilyBidi": "Calibri",
+"allCaps": false,
+"localeIdBidi": 1025,
+"localeId": 1033,
+"localeIdFarEast": 1033,
+"complexScript": false,
+"fontFamilyAscii": "Tahoma",
+"fontFamilyNonFarEast": "Tahoma",
+"characterSpacing": 0,
+"scaling": 100
+}
+},
+"inlines": []
+}
+]
+},
+"endnotes": {
+"separator": [
+{
+"paragraphFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"styleName": "Normal",
+"listFormat": {},
+"inlineFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"leftIndent": 0,
+"rightIndent": 0,
+"firstLineIndent": 0,
+"textAlignment": "Left",
+"beforeSpacing": 0,
+"afterSpacing": 0,
+"spaceBeforeAuto": false,
+"spaceAfterAuto": false,
+"lineSpacing": 1,
+"lineSpacingType": "Multiple",
+"styleName": "Normal",
+"outlineLevel": "BodyText",
+"bidi": false,
+"keepLinesTogether": false,
+"keepWithNext": false,
+"contextualSpacing": false,
+"widowControl": true,
+"listFormat": {}
+}
+},
+"characterFormat": {
+"inlineFormat": {
+"bold": false,
+"italic": false,
+"fontSize": 10,
+"fontFamily": "Tahoma",
+"underline": "None",
+"fontHintType": "Default",
+"strikethrough": "None",
+"baselineAlignment": "Normal",
+"highlightColor": "NoColor",
+"fontColor": "#000000",
+"bidi": false,
+"bdo": "None",
+"boldBidi": false,
+"italicBidi": false,
+"fontSizeBidi": 11,
+"fontFamilyBidi": "Calibri",
+"allCaps": false,
+"localeIdBidi": 1025,
+"localeId": 1033,
+"localeIdFarEast": 1033,
+"complexScript": false,
+"fontFamilyAscii": "Tahoma",
+"fontFamilyNonFarEast": "Tahoma",
+"characterSpacing": 0,
+"scaling": 100
+}
+},
+"inlines": [
+{
+"characterFormat": {
+"inlineFormat": {
+"bold": false,
+"italic": false,
+"underline": "None",
+"fontHintType": "Default",
+"strikethrough": "None",
+"baselineAlignment": "Normal",
+"highlightColor": "NoColor",
+"bidi": false,
+"bdo": "None",
+"boldBidi": false,
+"italicBidi": false,
+"fontSizeBidi": 11,
+"fontFamilyBidi": "Calibri",
+"allCaps": false,
+"localeIdBidi": 1025,
+"localeId": 1033,
+"localeIdFarEast": 1033,
+"complexScript": false
+}
+},
+"text": "\u0003"
+}
+]
+}
+],
+"continuationSeparator": [
+{
+"paragraphFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"styleName": "Normal",
+"listFormat": {},
+"inlineFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"leftIndent": 0,
+"rightIndent": 0,
+"firstLineIndent": 0,
+"textAlignment": "Left",
+"beforeSpacing": 0,
+"afterSpacing": 0,
+"spaceBeforeAuto": false,
+"spaceAfterAuto": false,
+"lineSpacing": 1,
+"lineSpacingType": "Multiple",
+"styleName": "Normal",
+"outlineLevel": "BodyText",
+"bidi": false,
+"keepLinesTogether": false,
+"keepWithNext": false,
+"contextualSpacing": false,
+"widowControl": true,
+"listFormat": {}
+}
+},
+"characterFormat": {
+"inlineFormat": {
+"bold": false,
+"italic": false,
+"fontSize": 10,
+"fontFamily": "Tahoma",
+"underline": "None",
+"fontHintType": "Default",
+"strikethrough": "None",
+"baselineAlignment": "Normal",
+"highlightColor": "NoColor",
+"fontColor": "#000000",
+"bidi": false,
+"bdo": "None",
+"boldBidi": false,
+"italicBidi": false,
+"fontSizeBidi": 11,
+"fontFamilyBidi": "Calibri",
+"allCaps": false,
+"localeIdBidi": 1025,
+"localeId": 1033,
+"localeIdFarEast": 1033,
+"complexScript": false,
+"fontFamilyAscii": "Tahoma",
+"fontFamilyNonFarEast": "Tahoma",
+"characterSpacing": 0,
+"scaling": 100
+}
+},
+"inlines": [
+{
+"characterFormat": {
+"inlineFormat": {
+"bold": false,
+"italic": false,
+"underline": "None",
+"fontHintType": "Default",
+"strikethrough": "None",
+"baselineAlignment": "Normal",
+"highlightColor": "NoColor",
+"bidi": false,
+"bdo": "None",
+"boldBidi": false,
+"italicBidi": false,
+"fontSizeBidi": 11,
+"fontFamilyBidi": "Calibri",
+"allCaps": false,
+"localeIdBidi": 1025,
+"localeId": 1033,
+"localeIdFarEast": 1033,
+"complexScript": false
+}
+},
+"text": "\u0004"
+}
+]
+}
+],
+"continuationNotice": [
+{
+"paragraphFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"styleName": "Normal",
+"listFormat": {},
+"inlineFormat": {
+"borders": {
+"top": {},
+"left": {},
+"right": {},
+"bottom": {},
+"horizontal": {},
+"vertical": {}
+},
+"leftIndent": 0,
+"rightIndent": 0,
+"firstLineIndent": 0,
+"textAlignment": "Left",
+"beforeSpacing": 0,
+"afterSpacing": 0,
+"spaceBeforeAuto": false,
+"spaceAfterAuto": false,
+"lineSpacing": 1,
+"lineSpacingType": "Multiple",
+"styleName": "Normal",
+"outlineLevel": "BodyText",
+"bidi": false,
+"keepLinesTogether": false,
+"keepWithNext": false,
+"contextualSpacing": false,
+"widowControl": true,
+"listFormat": {}
+}
+},
+"characterFormat": {
+"inlineFormat": {
+"bold": false,
+"italic": false,
+"fontSize": 10,
+"fontFamily": "Tahoma",
+"underline": "None",
+"fontHintType": "Default",
+"strikethrough": "None",
+"baselineAlignment": "Normal",
+"highlightColor": "NoColor",
+"fontColor": "#000000",
+"bidi": false,
+"bdo": "None",
+"boldBidi": false,
+"italicBidi": false,
+"fontSizeBidi": 11,
+"fontFamilyBidi": "Calibri",
+"allCaps": false,
+"localeIdBidi": 1025,
+"localeId": 1033,
+"localeIdFarEast": 1033,
+"complexScript": false,
+"fontFamilyAscii": "Tahoma",
+"fontFamilyNonFarEast": "Tahoma",
+"characterSpacing": 0,
+"scaling": 100
+}
+},
+"inlines": []
+}
+]
+}
+}
