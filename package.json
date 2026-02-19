@@ -43,6 +43,10 @@
       {
         "command": "ps-json-tools.pasteChooseType",
         "title": "Paste clipboard (choose type)"
+      },
+      {
+        "command": "ps-json-tools.pasteJson",
+        "title": "Paste JSON"
       }
     ],
     "menus": {
@@ -77,6 +81,10 @@
         {
           "command": "ps-json-tools.pasteChooseType",
           "group": "9_json_tools@8"
+        },
+        {
+          "command": "ps-json-tools.pasteJson",
+          "group": "9_json_tools@9"
         }
       ]
     }

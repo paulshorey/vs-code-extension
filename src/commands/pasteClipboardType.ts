@@ -1,5 +1,6 @@
 import * as vscode from "vscode";
 import { execFileSync } from "child_process";
+import { parseJsonRecursive } from "./parseJsonRecursive";
 
 function jxa(script: string): string {
   return execFileSync("osascript", ["-l", "JavaScript", "-e", script], {
@@ -184,4 +185,46 @@ export async function pasteChooseType(editor: vscode.TextEditor) {
     return;
   }
   await pasteContent(editor, content);
+}
+
+function tryParseJson(text: string): unknown | undefined {
+  const trimmed = text.trim();
+  try {
+    return JSON.parse(trimmed);
+  } catch {
+    return undefined;
+  }
+}
+
+export async function pasteJson(editor: vscode.TextEditor) {
+  if (process.platform !== "darwin") {
+    vscode.window.showErrorMessage("Paste-by-type is only supported on macOS.");
+    return;
+  }
+
+  // 1) Check text/plain for JSON
+  const plain = readClipboardType("public.utf8-plain-text");
+  if (plain) {
+    const parsed = tryParseJson(plain);
+    if (parsed !== undefined) {
+      const result = JSON.stringify(parseJsonRecursive(parsed), null, 2);
+      await pasteContent(editor, result);
+      return;
+    }
+  }
+
+  // 2) Check web-custom-data blob for application/json (or any JSON-looking type)
+  const customData = getWebCustomData();
+  for (const [mimeType, value] of customData) {
+    if (mimeType.includes("json")) {
+      const parsed = tryParseJson(value);
+      if (parsed !== undefined) {
+        const result = JSON.stringify(parseJsonRecursive(parsed), null, 2);
+        await pasteContent(editor, result);
+        return;
+      }
+    }
+  }
+
+  vscode.window.showWarningMessage("No JSON content found on the clipboard.");
 }

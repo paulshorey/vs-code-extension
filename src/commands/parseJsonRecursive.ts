@@ -19,7 +19,7 @@ function tryUnescapeJsonString(text: string): string | null {
   }
 }
 
-function parseJsonRecursive(value: unknown): unknown {
+export function parseJsonRecursive(value: unknown): unknown {
   if (typeof value === "string") {
     const trimmed = value.trim();
     if (
