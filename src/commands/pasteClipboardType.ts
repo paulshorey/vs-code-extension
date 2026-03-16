@@ -11,8 +11,7 @@ function jxa(script: string): string {
 }
 
 function listClipboardTypes(): string[] {
-  const script =
-    'ObjC.import("AppKit"); JSON.stringify(ObjC.deepUnwrap($.NSPasteboard.generalPasteboard.types));';
+  const script = 'ObjC.import("AppKit"); JSON.stringify(ObjC.deepUnwrap($.NSPasteboard.generalPasteboard.types));';
   try {
     return JSON.parse(jxa(script).trim());
   } catch {
@@ -22,11 +21,7 @@ function listClipboardTypes(): string[] {
 
 function readClipboardType(typeId: string): string | undefined {
   const escaped = typeId.replace(/\\/g, "\\\\").replace(/"/g, '\\"');
-  const script = [
-    'ObjC.import("AppKit");',
-    `var s = $.NSPasteboard.generalPasteboard.stringForType($("${escaped}"));`,
-    "ObjC.unwrap(s);",
-  ].join(" ");
+  const script = ['ObjC.import("AppKit");', `var s = $.NSPasteboard.generalPasteboard.stringForType($("${escaped}"));`, "ObjC.unwrap(s);"].join(" ");
   try {
     const raw = jxa(script);
     const content = raw.replace(/\n$/, "");
@@ -119,9 +114,7 @@ function readClipboardAsMime(mimeType: string): string | undefined {
   const available = listClipboardTypes();
   const customKeys = [...customData.keys()];
   const allTypes = [...available, ...customKeys.map((k) => `[web-custom-data] ${k}`)];
-  vscode.window.showWarningMessage(
-    `No "${mimeType}" content on clipboard. Available: ${allTypes.join(", ")}`,
-  );
+  vscode.window.showWarningMessage(`No "${mimeType}" content on clipboard. Available: ${allTypes.join(", ")}`);
   return undefined;
 }
 
