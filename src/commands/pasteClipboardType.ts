@@ -1,6 +1,7 @@
 import * as vscode from "vscode";
-import { execFileSync } from "child_process";
-import { parseJsonRecursive } from "./parseJsonRecursive";
+import { execFileSync } from "node:child_process";
+import { parseJsonTextRecursive } from "../lib/json";
+import { decodeSfdtToFormattedJson } from "../lib/sfdt";
 
 function jxa(script: string): string {
   return execFileSync("osascript", ["-l", "JavaScript", "-e", script], {
@@ -20,7 +21,7 @@ function listClipboardTypes(): string[] {
 }
 
 function readClipboardType(typeId: string): string | undefined {
-  const escaped = typeId.replace(/\\/g, "\\\\").replace(/"/g, '\\"');
+  const escaped = typeId.replaceAll("\\", String.raw`\\`).replaceAll('"', String.raw`\"`);
   const script = ['ObjC.import("AppKit");', `var s = $.NSPasteboard.generalPasteboard.stringForType($("${escaped}"));`, "ObjC.unwrap(s);"].join(" ");
   try {
     const raw = jxa(script);
@@ -180,13 +181,31 @@ export async function pasteChooseType(editor: vscode.TextEditor) {
   await pasteContent(editor, content);
 }
 
-function tryParseJson(text: string): unknown | undefined {
-  const trimmed = text.trim();
-  try {
-    return JSON.parse(trimmed);
-  } catch {
+function getJsonClipboardCandidates(): string[] {
+  const candidates: string[] = [];
+
+  const plain = readClipboardType("public.utf8-plain-text");
+  if (plain) {
+    candidates.push(plain);
+  }
+
+  const customData = getWebCustomData();
+  for (const [mimeType, value] of customData) {
+    if (mimeType.includes("json")) {
+      candidates.push(value);
+    }
+  }
+
+  return candidates;
+}
+
+function formatJsonCandidate(text: string): string | undefined {
+  const parsed = parseJsonTextRecursive(text);
+  if (parsed === undefined) {
     return undefined;
   }
+
+  return JSON.stringify(parsed, null, 2);
 }
 
 export async function pasteJson(editor: vscode.TextEditor) {
@@ -195,29 +214,36 @@ export async function pasteJson(editor: vscode.TextEditor) {
     return;
   }
 
-  // 1) Check text/plain for JSON
-  const plain = readClipboardType("public.utf8-plain-text");
-  if (plain) {
-    const parsed = tryParseJson(plain);
-    if (parsed !== undefined) {
-      const result = JSON.stringify(parseJsonRecursive(parsed), null, 2);
+  for (const candidate of getJsonClipboardCandidates()) {
+    const result = formatJsonCandidate(candidate);
+    if (result !== undefined) {
       await pasteContent(editor, result);
       return;
     }
   }
 
-  // 2) Check web-custom-data blob for application/json (or any JSON-looking type)
-  const customData = getWebCustomData();
-  for (const [mimeType, value] of customData) {
-    if (mimeType.includes("json")) {
-      const parsed = tryParseJson(value);
-      if (parsed !== undefined) {
-        const result = JSON.stringify(parseJsonRecursive(parsed), null, 2);
-        await pasteContent(editor, result);
-        return;
-      }
-    }
+  vscode.window.showWarningMessage("No JSON content found on the clipboard.");
+}
+
+export async function pasteDecodedSfdt(editor: vscode.TextEditor) {
+  if (process.platform !== "darwin") {
+    vscode.window.showErrorMessage("Paste-by-type is only supported on macOS.");
+    return;
   }
 
-  vscode.window.showWarningMessage("No JSON content found on the clipboard.");
+  const candidates = getJsonClipboardCandidates();
+  if (candidates.length === 0) {
+    vscode.window.showWarningMessage("Clipboard is empty.");
+    return;
+  }
+
+  for (const candidate of candidates) {
+    try {
+      const result = await decodeSfdtToFormattedJson(candidate);
+      await pasteContent(editor, result);
+      return;
+    } catch {}
+  }
+
+  vscode.window.showWarningMessage("No decodable SFDT content found on the clipboard.");
 }
