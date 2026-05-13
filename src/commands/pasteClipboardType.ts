@@ -2,6 +2,7 @@ import * as vscode from "vscode";
 import { execFileSync } from "node:child_process";
 import { parseJsonTextRecursive } from "../lib/json";
 import { decodeSfdtToFormattedJson } from "../lib/sfdt";
+import { htmlToMarkdown } from "../lib/htmlToMarkdown";
 
 function jxa(script: string): string {
   return execFileSync("osascript", ["-l", "JavaScript", "-e", script], {
@@ -140,6 +141,13 @@ function makePasteCommand(mimeType: string) {
 export const pasteAsPlainText = makePasteCommand("text/plain");
 export const pasteAsHtml = makePasteCommand("text/html");
 export const pasteAsJson = makePasteCommand("application/json");
+
+export async function pasteAsMarkdown(editor: vscode.TextEditor) {
+  const html = readClipboardAsMime("text/html");
+  if (html === undefined) return;
+  const md = htmlToMarkdown(html);
+  await pasteContent(editor, md);
+}
 
 export async function pasteChooseType(editor: vscode.TextEditor) {
   if (process.platform !== "darwin") {
