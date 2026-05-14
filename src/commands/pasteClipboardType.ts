@@ -3,6 +3,7 @@ import { execFileSync } from "node:child_process";
 import { parseJsonTextRecursive } from "../lib/json";
 import { decodeSfdtToFormattedJson } from "../lib/sfdt";
 import { htmlToMarkdown } from "../lib/htmlToMarkdown";
+import { pasteContent } from "../lib/editor";
 
 function jxa(script: string): string {
   return execFileSync("osascript", ["-l", "JavaScript", "-e", script], {
@@ -118,16 +119,6 @@ function readClipboardAsMime(mimeType: string): string | undefined {
   const allTypes = [...available, ...customKeys.map((k) => `[web-custom-data] ${k}`)];
   vscode.window.showWarningMessage(`No "${mimeType}" content on clipboard. Available: ${allTypes.join(", ")}`);
   return undefined;
-}
-
-async function pasteContent(editor: vscode.TextEditor, content: string) {
-  await editor.edit((eb) => {
-    if (editor.selection.isEmpty) {
-      eb.insert(editor.selection.active, content);
-    } else {
-      eb.replace(editor.selection, content);
-    }
-  });
 }
 
 function makePasteCommand(mimeType: string) {

@@ -8,3 +8,13 @@ export function getSelectedText(editor: vscode.TextEditor): string | undefined {
   }
   return text;
 }
+
+export async function pasteContent(editor: vscode.TextEditor, content: string) {
+  await editor.edit((eb) => {
+    if (editor.selection.isEmpty) {
+      eb.insert(editor.selection.active, content);
+    } else {
+      eb.replace(editor.selection, content);
+    }
+  });
+}
