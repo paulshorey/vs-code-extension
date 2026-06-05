@@ -61,3 +61,28 @@ export async function decodeSfdtToFormattedJson(text: string): Promise<string> {
   const decoded = await decodeSfdtToObject(text);
   return JSON.stringify(decoded, null, 2);
 }
+
+async function writeSfdtArchive(sfdtContent: string): Promise<string> {
+  const zip = new JSZip();
+  zip.file("sfdt", sfdtContent);
+  return zip.generateAsync({
+    type: "base64",
+    compression: "DEFLATE",
+    compressionOptions: { level: 9 },
+  });
+}
+
+export async function encodeObjectToSfdt(value: unknown): Promise<string> {
+  const sfdtContent = JSON.stringify(value);
+  return writeSfdtArchive(sfdtContent);
+}
+
+export async function encodeJsonToSfdt(text: string): Promise<string> {
+  const parsed = parseJsonTextRecursive(text);
+
+  if (parsed === undefined) {
+    throw new Error("Selected text is not valid JSON.");
+  }
+
+  return encodeObjectToSfdt(parsed);
+}
