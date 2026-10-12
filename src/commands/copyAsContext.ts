@@ -9,7 +9,7 @@ export async function copyAsContext(editor: vscode.TextEditor) {
 
   const filePath = vscode.workspace.asRelativePath(editor.document.uri, false);
   const startLine = editor.selection.start.line + 1;
-  const context = `${filePath}\nline ${startLine}\n\`\`\`\n${selectedText}\n\`\`\``;
+  const context = `${filePath}\nline ${startLine}\n\`\`\`code\n${selectedText}\n\`\`\``;
 
   await vscode.env.clipboard.writeText(context);
   vscode.window.showInformationMessage("Copied selection as context.");
