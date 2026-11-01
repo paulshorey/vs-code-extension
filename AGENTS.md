@@ -1,41 +1,30 @@
-# VS Code / Cursor Extension
+# Project: PS JSON Tools
 
-Adds right-click context menu tools for transforming selected text and working with the clipboard.
+VS Code/Cursor context-menu tools for JSON, SFDT, clipboard formats, Word-to-Markdown,
+and copying selected code as context. Check `package.json` for registered commands.
 
-## Commands
+## Code ownership
 
-| Command                       | Description                                                                                  |
-| ----------------------------- | -------------------------------------------------------------------------------------------- |
-| Parse JSON String (Recursive) | Parse JSON, then recursively parse any nested stringified-JSON values                        |
-| Stringify to JSON             | Escape and stringify selected text as a JSON string                                          |
-| Parse encoded SFDT            | Base64-decode + unzip a Syncfusion SFDT blob                                                 |
-| Paste as text/plain           | Paste the `text/plain` content from the clipboard (macOS)                                    |
-| Paste as text/html            | Paste the `text/html` content from the clipboard (macOS)                                     |
-| Paste as application/json     | Paste the `application/json` content from the clipboard (macOS)                              |
-| Paste clipboard (choose type) | List all available clipboard types and paste the chosen one (macOS)                          |
-| Paste JSON                    | Find JSON on clipboard (text/plain or web-custom-data), recursively parse, and paste (macOS) |
-
-## File Structure
-
-```
-src/
-  extension.ts            # Entry point — registers commands, nothing else
-  commands/
-    parseJsonRecursive.ts  # "Parse JSON String (Recursive)" handler
-    stringifyJson.ts       # "Stringify to JSON" handler
-    parseSfdt.ts           # "Parse encoded SFDT" handler
-    pasteClipboardType.ts  # Paste clipboard by content type (macOS native pasteboard)
-  lib/
-    editor.ts              # Shared helpers (getSelectedText)
-test/                      # Sample test fixtures
-```
+`src/extension.ts` registers commands; handlers live in `src/commands/`, shared
+editor helpers in `src/lib/`, and sample fixtures in `test/`. Keep UI registration
+separate from transformation logic. Clipboard format operations use the macOS pasteboard.
 
 ## Development
 
-```bash
-npm install
-npm run watch     # continuous build via esbuild
-# Press F5 in VS Code / Cursor to launch the Extension Development Host
-npm run build     # production build
-npm run package   # produce .vsix
-```
+Use `npm install`, `npm run watch`, and F5 for the Extension Development Host.
+Run `npm run typecheck` and `npm run build` for code changes; exercise affected
+commands in the editor with representative fixtures. `npm run package` builds,
+increments the package version, and creates a VSIX; use it only for a release handoff.
+
+# Research and report
+
+If something goes wrong, stop the affected operation and report relevant findings, data, and logs.
+Redact secrets and private content.
+If unsure about something, research, search the web, find latest techniques and best practices.
+
+# Next steps
+
+Consider what was recently done, what's in progress, and how it contributes to the goal.
+Decide and recommend what to do next.
+
+# Goal: Make structured text and clipboard transformations quick and reliable in the editor
